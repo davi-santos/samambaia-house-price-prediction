@@ -42,8 +42,13 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
                 house_price = item.find_all('span', {'class': 'm7nrfa-0 eJCbzj sc-ifAKCX jViSDP'})[0].contents[0]
                 house_description = item.find_all('span', {'class': 'sc-1ftm7qz-0 doofcG sc-ifAKCX lgjPoE'})
                 
-                # for _ in house_description:
-                #     print(_.contents[0])
+                for _ in house_description:
+                    print(_.contents[0])
+
+                house_location = item.find_all('span', {'class': 'sc-1c3ysll-1 cLQXSQ sc-ifAKCX lgjPoE'})[0].contents[0]
+                print(house_location)
+                
+                print('-----------')
             except:
                 print('Error')
         
