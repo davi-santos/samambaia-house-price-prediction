@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
 
 FIRST_PAGE = 0
 
@@ -30,47 +31,53 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
         else:
             url_base = 'https://df.olx.com.br/imoveis/venda?o='+str(page+1)+'&q='+neighbor
         
-        requested_page = requests.get(url=url_base, headers= PARAMS_REQUEST_HEADER)
-        soup = BeautifulSoup(requested_page.content, 'lxml')
-        ul_items = soup.find('ul', {'id': 'ad-list'})
-        li_items = ul_items.find_all('li')
+        # Try to request OLX page
+        try:
+            requested_page = requests.get(url=url_base, headers= PARAMS_REQUEST_HEADER)
+            soup = BeautifulSoup(requested_page.content, 'lxml')
+            ul_items = soup.find('ul', {'id': 'ad-list'})
+            li_items = ul_items.find_all('li')
+
+            print('---------------------')
+            print(f'Page {page} successfully requested')
+            for item in li_items:
+                try:
+
+                    house_name = item.find('h2').contents[0]
+                    house_price = item.find('span', {'class': 'm7nrfa-0 eJCbzj sc-ifAKCX jViSDP'}).contents[0]
+                    house_description = item.find_all('span', {'class': 'sc-1ftm7qz-0 doofcG sc-ifAKCX lgjPoE'})
+                    house_location = item.find_all('span', {'class': 'sc-1c3ysll-1 cLQXSQ sc-ifAKCX lgjPoE'})[0].contents[0]
+                    house_hyperlink = item.find('a').get("href")
+
+                    description = ''
+                    for i in range(len(house_description)):
+                        # print(f'    {_.contents[0]}')
+                        description = description + '\n' + house_description[i].contents[0]
+                    # print(description)
+                    # print(f'House name: {house_name}')
+                    # print(f'House price: {house_price}')
+                    # print(f'House description:')
+                    # print(f'House location: {house_location}')
+                    # print(f'House hyperlink: {house_hyperlink}')
+                    
+                    # print('-----------')
+                    json_house = {
+                        'house_name': house_name,
+                        'house_price': house_price,
+                        'house_description': description,
+                        'house_location': house_location,
+                        'house_hypterlink': house_hyperlink
+                    }
+                    houses_json.append(json_house)
+                except:
+                    pass
+        except:
+            print(f'Could not request page number: {page}')
         
-        for item in li_items:
-            try:
-                house_name = item.find_all('h2')[0].contents[0]
-                house_price = item.find_all('span', {'class': 'm7nrfa-0 eJCbzj sc-ifAKCX jViSDP'})[0].contents[0]
-                house_description = item.find_all('span', {'class': 'sc-1ftm7qz-0 doofcG sc-ifAKCX lgjPoE'})
-                house_location = item.find_all('span', {'class': 'sc-1c3ysll-1 cLQXSQ sc-ifAKCX lgjPoE'})[0].contents[0]
-                house_hyperlink = item.find('a', {'class': 'sc-12rk7z2-1 huFwya sc-htoDjs jEMWT'}).get("href")
-
-                description = ''
-                for _ in house_description:
-                    # print(f'    {_.contents[0]}')
-                    description = description + '\n' + _.contents[0]
-
-                # print(description)
-                # print(f'House name: {house_name}')
-                # print(f'House price: {house_price}')
-                # print(f'House description:')
-                # print(f'House location: {house_location}')
-                # print(f'House hyperlink: {house_hyperlink}')
-                
-                # print('-----------')
-                json_house = {
-                    'house_name': house_name,
-                    'house_price': house_price,
-                    'house_description': description,
-                    'house_location': house_location,
-                    'house_hypterlink': house_hyperlink
-                }
-
-                houses_json.append(json_house)
-            except:
-                pass
+        time.sleep(5)
 
     return houses_json
 
-json_data = searchData(n_pages=2)
-# print(json_data)
+json_data = searchData(n_pages=20)
 df_json = pd.DataFrame(data=json_data)
 df_json.to_excel('houses.xlsx')
