@@ -22,10 +22,13 @@ PARAMS_REQUEST_HEADER =  {
 
 def searchData(neighbor = 'samambaia', n_pages = 2):
 
-    houses_json = []
+    houses_json = [] # Save all data here as json
+    try_another_request = 0
+    page = 0
 
-    for page in range(n_pages):
+    while page != n_pages:
 
+        # Links in olx pages
         if page == FIRST_PAGE:
             url_base = 'https://df.olx.com.br/imoveis/venda?q='+neighbor
         else:
@@ -39,7 +42,7 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
             li_items = ul_items.find_all('li')
 
             print('---------------------')
-            print(f'Page {page} successfully requested')
+            print(f'Page {page+1} successfully requested')
             for item in li_items:
                 try:
 
@@ -71,13 +74,22 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
                     houses_json.append(json_house)
                 except:
                     pass
+                try_another_request = 0
         except:
-            print(f'Could not request page number: {page}')
+            if try_another_request == 3:
+                print(f'Really could not get olx page number {page}')
+                try_another_request = 0
+            else:
+                print(f'Could not request page {page+1}...Trying again, attempt {try_another_request+1}...')
+                time.sleep(5)
+                try_another_request += 1
+                page -= 1
         
         time.sleep(5)
+        page += 1
 
     return houses_json
 
-json_data = searchData(n_pages=20)
+json_data = searchData(n_pages=70)
 df_json = pd.DataFrame(data=json_data)
 df_json.to_excel('houses.xlsx')
