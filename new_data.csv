@@ -1,0 +1,2927 @@
+,house_category,n_bathrooms,CEP,Logradouro
+0,Apartamentos,1,72302705,QR 116 Conjunto 4-A Comércio
+1,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+2,Apartamentos,1,72316080,QR 204
+3,Apartamentos,1,72304051,QN 120 Conjunto 1
+4,Casas,1,72318030,QR 402 Conjunto 29
+5,Apartamentos,2,72320300,QI 416
+6,Apartamentos,2,72300603,Quadra 102 Conjunto 2
+7,Casas,4,72329010,QR 429 Conjunto 10
+8,Apartamentos,2,72320119,QR 412 Conjunto 17
+9,Apartamentos,2,72322609,QR 612 Conjunto 8-A
+10,Casas,1,72318032,QR 402 Conjunto 31
+11,Casas,1,72316100,QR 208
+12,Casas,4,72333000,QR 617
+13,Apartamentos,1,72316042,Quadra 202 Conjunto 2
+14,Apartamentos,1,72300641,Quadra 302 Conjunto 6
+15,Casas,1,72315000,QR 513
+16,Casas,2,72335100,QR 631
+17,Apartamentos,1,72322609,QR 612 Conjunto 8-A
+18,Apartamentos,1,72321506,QN 407 Conjunto F Comércio
+19,Casas,2,72312811,QR 512 Conjunto 10
+20,Casas,2,72329003,QR 429 Conjunto 3
+21,Casas,2,72309305,QR 321 Conjunto 5
+22,Casas,2,72308605,QR 316 Conjunto 5
+23,Apartamentos,2,72304020,QR 120 Conjunto 10A
+24,Apartamentos,1,72320300,QI 416
+25,Casas,2,72322520,QS 604
+26,Apartamentos,1,72322503,QS 602 Conjunto C Comércio
+27,Casas,3,72322200,QR 606
+28,Apartamentos,1,72302151,QN 106 Conjunto 1
+29,Apartamentos,1,72318205,QR 406 Conjunto 5
+30,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+31,Casas,1,72311704,QN 505 Conjunto 4
+32,Apartamentos,1,72320100,QR 412
+33,Apartamentos,1,72311500,QS 501
+34,Apartamentos,1,72321514,QS 407 Conjunto D Comércio
+35,Casas,2,72318114,QR 404 Conjunto 13
+36,Casas,5 ou mais,72319002,QR 401 Conjunto 2
+37,Apartamentos,1,72308526,QS 316 Conjunto 6 Comércio
+38,Casas,1,72325209,QR 423 Conjunto 8
+39,Casas,2,72314300,QR 516
+40,Casas,1,72331102,QR 603 Conjunto 2
+41,Casas,2,72325218,QR 423 Conjunto 16
+42,Apartamentos,5 ou mais,72320109,QR 412 Conjunto 8
+43,Apartamentos,2,72305506,QS 303 Conjunto 6 Comércio
+44,Casas,3,72323006,QR 415 Conjunto 6
+45,Casas,1,72331104,QR 603 Conjunto 4
+46,Casas,4,72316227,QR 210 Conjunto 26
+47,Casas,1,72329200,QR 433
+48,Casas,2,72316300,QR 212
+49,Casas,1,72331104,QR 603 Conjunto 4
+50,Casas,1,72333202,QR 621 Conjunto 2
+51,Casas,2,72319003,QR 401 Conjunto 3
+52,Casas,1,72322700,QR 614
+53,Casas,1,72312700,QN 512
+54,Casas,1,72320001,QR 410 Conjunto 1
+55,Casas,2,72315600,QN 214
+56,Casas,1,72320001,QR 410 Conjunto 1
+57,Casas,1,72345200,QR 223
+58,Casas,1,72345200,QR 223
+59,Apartamentos,1,72306813,QR 310 Conjunto 12
+60,Casas,1,72335001,QR 629 Conjunto 1
+61,Casas,3,72343206,QR 215 Conjunto 6
+62,Casas,2,72318300,QR 408
+63,Casas,3,72318000,QR 402
+64,Casas,1,72335001,QR 629 Conjunto 1
+65,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+66,Apartamentos,1,72302151,QN 106 Conjunto 1
+67,Apartamentos,1,72309310,
+68,,,,
+69,Apartamentos,1,72301555,QS 111 Conjunto J
+70,Casas,1,72339126,QR 827 Conjunto 11
+71,Casas,4,72323014,QR 415 Conjunto 14
+72,Casas,2,72302316,QR 110 Conjunto 16
+73,Apartamentos,1,72310527,QS 502 Conjunto 7 Comércio
+74,Casas,3,72304208,QR 122 Conjunto 8
+75,Casas,1,72318021,QR 402 Conjunto 21
+76,Apartamentos,1,72302352,QN 110 Conjunto 2
+77,Casas,4,72320200,QR 414
+78,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+79,Apartamentos,1,72318580,QN 408
+80,Casas,3,72310100,QR 320
+81,Casas,1,72312700,QN 512
+82,,,,
+83,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+84,Casas,2,72322533,QS 606 Conjunto C Comércio
+85,Apartamentos,2,72300530,Quadra 301
+86,Casas,1,72320001,QR 410 Conjunto 1
+87,Apartamentos,1,72300530,Quadra 301
+88,Casas,2,72317009,QR 521 Conjunto 9
+89,Casas,1,72329200,QR 433
+90,Casas,2,72305614,QR 307 Conjunto 13
+91,Apartamentos,1,72309300,QR 321
+92,Casas,3,72313700,
+93,Apartamentos,1,72318580,QN 408
+94,Casas,2,72308315,QR 314 Conjunto 13
+95,Casas,2,72316100,QR 208
+96,Casas,2,72322209,QR 606 Conjunto 8
+97,Apartamentos,1,72320107,QR 412 Conjunto 6-A
+98,Casas,3,72305615,QR 307 Conjunto 14
+99,Casas,2,72316300,QR 212
+100,Casas,2,72322204,QR 606 Conjunto 4
+101,Casas,5 ou mais,72312700,QN 512
+102,Casas,1,72320001,QR 410 Conjunto 1
+103,Casas,3,72329003,QR 429 Conjunto 3
+104,Casas,1,72318509,QN 402 Conjunto I Comércio
+105,Casas,1,72345200,QR 223
+106,Casas,3,72322505,QS 602 Conjunto E Comércio
+107,Casas,2,72319003,QR 401 Conjunto 3
+108,Casas,1,72331104,QR 603 Conjunto 4
+109,Casas,1,72331104,QR 603 Conjunto 4
+110,Casas,1,72307300,QR 313
+111,Casas,2,72318112,QR 404 Conjunto 11
+112,Casas,2,72331017,QR 601 Conjunto 17
+113,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+114,Casas,,72314715,ADE Conjunto 15
+115,Apartamentos,0,72338660,QR 829
+116,Casas,2,72305000,QN 303
+117,Casas,1,72345205,QR 223 Conjunto 5
+118,Casas,1,72316002,QR 206 Conjunto 2
+119,Apartamentos,2,72320010,QR 410 Conjunto 9
+120,Casas,1,72318016,QR 402 Conjunto 16
+121,Casas,1,72339007,QR 1029 Conjunto 7
+122,Casas,0,72327026,QR 425 Conjunto 25
+123,Casas,1,72339000,QR 1029
+124,Casas,2,72308809,
+125,Apartamentos,1,72313004,QN 507 Conjunto 4
+126,Casas,1,72327000,QR 425
+127,Apartamentos,1,72308001,QN 312 Conjunto 1
+128,Casas,2,72316000,QR 206
+129,Casas,1,72331104,QR 603 Conjunto 4
+130,Casas,1,72320001,QR 410 Conjunto 1
+131,Casas,3,72331300,QR 607
+132,Casas,4,72316100,QR 208
+133,Casas,1,72327001,QR 425 Conjunto 1
+134,Casas,2,72301700,QR 115
+135,Apartamentos,2,72304050,QN 120
+136,Casas,1,72321304,QR 413 Conjunto 4
+137,Casas,2,72319001,QR 401 Conjunto 1
+138,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+139,Casas,1,72318200,QR 406
+140,Casas,2,72316111,QR 208 Conjunto 10
+141,Apartamentos,2,72300530,Quadra 301
+142,Casas,1,72305600,QR 307
+143,Casas,3,72322005,QR 602 Conjunto 5
+144,Casas,2,72311300,QR 501
+145,Apartamentos,1,72314701,ADE Conjunto 1
+146,Casas,1,72320109,QR 412 Conjunto 8
+147,Apartamentos,2,72300530,Quadra 301
+148,Apartamentos,2,72322570,QN 614
+149,Casas,2,72322200,QR 606
+150,Casas,1,72325580,QS 423
+151,Casas,1,72320001,QR 410 Conjunto 1
+152,Casas,1,72320001,QR 410 Conjunto 1
+153,Apartamentos,1,72321007,
+154,Casas,3,72311613,QR 503 Conjunto 11
+155,Casas,1,72333300,QR 623
+156,Casas,2,72311300,QR 501
+157,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+158,Apartamentos,2,72339800,Rodovia DF-180
+159,Casas,2,72338750,QR 833
+160,Casas,3,72309101,QR 319 Conjunto 1
+161,Casas,1,72320001,QR 410 Conjunto 1
+162,Casas,1,72320001,QR 410 Conjunto 1
+163,Casas,1,72345200,QR 223
+164,Casas,2,72319003,QR 401 Conjunto 3
+165,Casas,1,72331104,QR 603 Conjunto 4
+166,Casas,1,72331104,QR 603 Conjunto 4
+167,Casas,2,72339137,QN 827 Conjunto 2
+168,Casas,1,72320001,QR 410 Conjunto 1
+169,Casas,1,72320001,QR 410 Conjunto 1
+170,Casas,1,72338713,QR 831 Conjunto 3
+171,Apartamentos,1,72321100,QR 409
+172,Casas,2,72316208,QR 210 Conjunto 8
+173,,,,
+174,Casas,1,72345200,QR 223
+175,Casas,2,72319003,QR 401 Conjunto 3
+176,Casas,1,72331104,QR 603 Conjunto 4
+177,Casas,1,72331104,QR 603 Conjunto 4
+178,Apartamentos,1,72313203,QN 509 Conjunto 3
+179,,,,
+180,Casas,1,72320000,QR 410
+181,Casas,1,72331104,QR 603 Conjunto 4
+182,Casas,1,72331104,QR 603 Conjunto 4
+183,Casas,2,72319003,QR 401 Conjunto 3
+184,Casas,1,72345200,QR 223
+185,Casas,1,72327000,QR 425
+186,Apartamentos,1,72331500,QS 601
+187,Casas,1,72320001,QR 410 Conjunto 1
+188,Casas,1,72320001,QR 410 Conjunto 1
+189,Apartamentos,1,72325580,QS 423
+190,Casas,2,72325109,QR 421 Conjunto 8
+191,Casas,2,72316100,QR 208
+192,Casas,1,72312113,QR 506 Conjunto 13
+193,Apartamentos,1,72302151,QN 106 Conjunto 1
+194,Apartamentos,1,72320018,QR 410 Conjunto 15-A
+195,Casas,1,72325000,QR 419
+196,Casas,2,72305810,QR 309 Conjunto 9
+197,Apartamentos,1,72318572,QS 406 Conjunto B Comércio
+198,,,,
+199,,,,
+200,Apartamentos,1,72313004,QN 507 Conjunto 4
+201,Casas,1,72301805,QR 121 Conjunto 5
+202,Apartamentos,1,72323015,QR 415 Conjunto 15
+203,Casas,1,72323520,QS 415
+204,Apartamentos,1,72308536,QS 318 Conjunto 6 Comércio
+205,Apartamentos,1,72321005,QR 407 Conjunto 5
+206,,,,
+207,Casas,2,72316000,QR 206
+208,Apartamentos,1,72321006,QR 407 Conjunto 6
+209,Casas,1,72312700,QN 512
+210,Apartamentos,1,72305507,QS 303 Conjunto 7 Comércio
+211,Casas,1,72323116,QR 417 Conjunto 16
+212,Casas,1,72320118,QR 412 Conjunto 16
+213,Casas,3,72304020,QR 120 Conjunto 10A
+214,Casas,2,72308602,QR 316 Conjunto 2
+215,,,,
+216,Apartamentos,2,72313100,QR 507
+217,Apartamentos,1,72321000,QR 407
+218,Casas,2,72320311,QI 416 Conjunto A
+219,Casas,1,72325580,QS 423
+220,Casas,2,72308316,QR 314 Conjunto 14
+221,Casas,2,72306806,QR 310 Conjunto 5-A
+222,Casas,1,72322025,EQ 602/402
+223,Apartamentos,2,72318230,QR 406 Conjunto 28
+224,,,,
+225,Apartamentos,1,72302510,QS 106
+226,Casas,1,72339014,QS 1029
+227,,,,
+228,,,,
+229,,,,
+230,,,,
+231,,,,
+232,,,,
+233,Apartamentos,1,72322700,QR 614
+234,Casas,,72307608,QR 315 Conjunto 8
+235,Casas,1,72316027,QR 206 Conjunto 27
+236,Apartamentos,1,72302700,QR 116
+237,Casas,1,72331017,QR 601 Conjunto 17
+238,Apartamentos,,72302051,QN 104 Conjunto 1
+239,Apartamentos,1,72313203,
+240,Casas,1,72316215,QR 210 Conjunto 14
+241,Casas,2,72323002,QR 415 Conjunto 2
+242,,,,
+243,,,,
+244,,,,
+245,,,,
+246,,,,
+247,Casas,2,72341102,QR 203 Conjunto 2
+248,Casas,1,72322201,QR 606 Conjunto 1
+249,,,,
+250,,,,
+251,Casas,4,72319214,QR 405 Conjunto 14
+252,Casas,2,72322204,QR 606 Conjunto 4
+253,Casas,2,72331017,QR 601 Conjunto 17
+254,,,,
+255,,,,
+256,,,,
+257,,,,
+258,,,,
+259,Casas,2,72331801,QR 615 Conjunto 1
+260,,,,
+261,,,,
+262,,,,
+263,Casas,2,72322015,QR 602 Conjunto 15
+264,Casas,2,72314712,ADE Conjunto 12
+265,Apartamentos,1,72305011,QN 303 Conjunto 11
+266,Casas,1,72318230,QR 406 Conjunto 28
+267,,,,
+268,Casas,5 ou mais,72320400,QR 420
+269,,,,
+270,,,,
+271,,,,
+272,Casas,,72315100,QR 515
+273,Casas,2,72311617,QR 503 Conjunto 15
+274,Apartamentos,2,72322546,QS 608 Conjunto F Comércio
+275,Casas,2,72322100,QR 604
+276,Casas,2,72308315,QR 314 Conjunto 13
+277,Casas,1,72345200,QR 223
+278,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+279,Casas,1,72325200,QR 423
+280,Casas,2,72300503,Quadra 101 Conjunto 2
+281,Casas,4,72338758,QR 833 Conjunto 8
+282,Apartamentos,1,72305305,QR 305 Conjunto 5
+283,Casas,3,72322101,QR 604 Conjunto 1
+284,Casas,2,72315015,QR 513 Conjunto 15
+285,Casas,2,72310420,QR 502 Conjunto 20
+286,Casas,3,72323015,QR 415 Conjunto 15
+287,Casas,1,72306301,QR 306 Conjunto 1
+288,Casas,3,72318205,QR 406 Conjunto 5
+289,Apartamentos,2,72308007,QN 312 Conjunto 7
+290,Casas,3,72316103,QR 208 Conjunto 3
+291,Casas,4,72321300,QR 413
+292,Casas,4,72321300,QR 413
+293,Casas,1,72314306,QR 516 Conjunto 6
+294,Casas,3,72331202,QR 605 Conjunto 2
+295,Casas,2,72303101,QR 125 Conjunto 1
+296,Apartamentos,2,72320300,QI 416
+297,Casas,1,72320203,QR 414 Conjunto 3
+298,Casas,2,72331105,QR 603 Conjunto 5
+299,Casas,1,72339117,QR 827 Conjunto 2
+300,Casas,5 ou mais,72325580,QS 423
+301,Casas,2,72341251,QN 205 Conjunto 1
+302,Casas,2,72305801,QR 309 Conjunto 1
+303,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+304,Casas,,72314701,ADE Conjunto 1
+305,Casas,2,72331108,QR 603 Conjunto 8
+306,Casas,1,72312602,QR 510 Conjunto 2
+307,Casas,2,72333405,QR 625 Conjunto 4
+308,Casas,4,72333300,QR 623
+309,Casas,4,72312106,QR 506 Conjunto 6
+310,,,,
+311,Casas,3,72331801,QR 615 Conjunto 1
+312,Apartamentos,1,72300639,Quadra 302 Conjunto 5
+313,Casas,1,72335000,QR 629
+314,Apartamentos,2,72318590,QS 408
+315,Casas,1,72335000,QR 629
+316,Casas,2,72310400,QR 502
+317,Casas,2,72321200,QR 411
+318,Apartamentos,1,72318545,QN 404 Conjunto E Comércio
+319,Casas,1,72310417,
+320,Apartamentos,1,72302318,QR 110 Conjunto 18
+321,Casas,2,72306600,QR 308
+322,Casas,1,72318592,QS 408 Conjunto B Comércio
+323,Casas,3,72315308,QR 519 Conjunto 8
+324,Casas,2,72311302,QR 501 Conjunto 2
+325,Casas,1,72318002,QR 402 Conjunto 2
+326,Casas,5 ou mais,72318116,QR 404 Conjunto 14
+327,Apartamentos,,72313004,QN 507 Conjunto 4
+328,Casas,2,72312600,QR 510
+329,Casas,3,72318114,QR 404 Conjunto 13
+330,Casas,2,72307310,QR 313 Conjunto 10
+331,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+332,Apartamentos,2,72322572,QN 614 Conjunto B
+333,Casas,2,72319010,QR 401 Conjunto 10
+334,Casas,1,72316504,QN 206 Conjunto D Comércio
+335,Casas,4,72321314,QR 413 Conjunto 12
+336,Casas,2,72329017,QR 429 Conjunto 17
+337,Casas,2,72301707,QR 115 Conjunto 7
+338,Casas,2,72305810,QR 309 Conjunto 9
+339,,,,
+340,,,,
+341,Apartamentos,1,72321535,QS 409 Conjunto E Comércio
+342,Apartamentos,2,72318300,QR 408
+343,Casas,1,72327006,QR 425 Conjunto 6
+344,Apartamentos,1,72310000,QN 320
+345,Apartamentos,3,72318230,QR 406 Conjunto 28
+346,Apartamentos,2,72320540,QN 412
+347,Apartamentos,1,72302151,QN 106 Conjunto 1
+348,Apartamentos,2,72322570,QN 614
+349,Apartamentos,2,72318210,QR 406 Conjunto 9-A
+350,Apartamentos,1,72308100,QR 312
+351,Apartamentos,1,72305811,QR 309 Conjunto 10
+352,Casas,2,72311802,QR 505 Conjunto 2
+353,Casas,1,72331600,QR 611
+354,Casas,4,72335100,QR 631
+355,Casas,1,72318118,QR 404 Conjunto 16
+356,Casas,2,72329120,QR 431 Conjunto 18
+357,Apartamentos,2,72304053,QN 120 Conjunto 3
+358,Apartamentos,1,72309300,QR 321
+359,Casas,1,72318031,QR 402 Conjunto 30
+360,Casas,1,72316300,QR 212
+361,Apartamentos,2,72301560,QS 113
+362,Casas,2,72310520,QS 502
+363,Casas,1,72320000,QR 410
+364,,,,
+365,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+366,Apartamentos,2,72320528,QS 410 Conjunto H Comércio
+367,Casas,1,72660306,Quadra 511 Conjunto 2
+368,Apartamentos,1,72311500,QS 501
+369,Casas,2,72331802,QR 615 Conjunto 2
+370,Casas,1,72331814,QR 615 Conjunto 12
+371,Casas,2,72322204,QR 606 Conjunto 4
+372,Casas,3,72302300,QR 110
+373,Casas,1,72322606,QR 612 Conjunto 6
+374,Casas,1,72320009,QR 410 Conjunto 8
+375,Casas,3,72320203,QR 414 Conjunto 3
+376,Apartamentos,1,72306521,QS 308 Conjunto 1 Comércio
+377,Apartamentos,1,72319524,QS 401 Conjunto D Comércio
+378,Casas,1,72331100,QR 603
+379,Apartamentos,1,72320326,QI 416 Conjunto P
+380,,,,
+381,,,,
+382,Casas,3,72323115,QR 417 Conjunto 15
+383,Casas,4,72312302,QR 508 Conjunto 2
+384,Apartamentos,1,72305540,QS 309 Conjunto 10 Comércio
+385,Apartamentos,1,72321535,QS 409 Conjunto E Comércio
+386,Apartamentos,2,72320217,QR 414 Conjunto 12-A
+387,Casas,2,72310406,QR 502 Conjunto 6
+388,Apartamentos,1,72318206,QR 406 Conjunto 6
+389,Casas,3,72318200,QR 406
+390,Apartamentos,1,72302548,QS 112 Conjunto 8 Comércio
+391,Apartamentos,1,72319500,
+392,Apartamentos,1,72310100,QR 320
+393,,,,
+394,Apartamentos,1,72318300,QR 408
+395,Casas,2,72331814,QR 615 Conjunto 12
+396,Apartamentos,1,72302052,QN 104 Conjunto 2
+397,Casas,1,72312600,QR 510
+398,Casas,4,72321304,QR 413 Conjunto 4
+399,,,,
+400,Apartamentos,1,72338661,QR 829 Conjunto 1
+401,Apartamentos,1,72314405,QR 518 Conjunto 3-A
+402,Apartamentos,1,72325520,QS 419
+403,Casas,,72320118,QR 412 Conjunto 16
+404,,,,
+405,Casas,1,72319230,QR 405 Conjunto 29
+406,,,,
+407,Casas,1,72333300,QR 623
+408,Apartamentos,1,72311700,QN 505
+409,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+410,Apartamentos,1,72321000,QR 407
+411,Apartamentos,1,72310000,QN 320
+412,Apartamentos,1,72300545,Quadra 301 Conjunto 8
+413,Casas,3,72331100,
+414,,,,
+415,,,,
+416,Apartamentos,1,72318300,QR 408
+417,Apartamentos,2,72301562,QS 113 Conjunto B
+418,Apartamentos,2,72304000,QR 120
+419,Casas,2,72312814,QR 512 Conjunto 13
+420,Casas,1,72315116,QR 515 Conjunto 16
+421,Apartamentos,2,72316042,Quadra 202 Conjunto 2
+422,Casas,2,72303109,QR 125 Conjunto 9
+423,Apartamentos,1,72305303,QR 305 Conjunto 3
+424,Casas,5 ou mais,72310400,QR 502
+425,Apartamentos,1,72304520,QS 122
+426,Apartamentos,3,72318230,QR 406 Conjunto 28
+427,Apartamentos,2,72301562,QS 113 Conjunto B
+428,,,,
+429,Apartamentos,1,72310011,QN 320 Conjunto 11
+430,Casas,2,72302300,QR 110
+431,Apartamentos,1,72321000,QR 407
+432,Apartamentos,1,72318595,QS 408 Conjunto E Comércio
+433,Apartamentos,1,72321002,QR 407 Conjunto 2
+434,Apartamentos,2,72319011,QR 401 Conjunto 11
+435,Casas,3,72316027,QR 206 Conjunto 27
+436,Casas,2,72311802,QR 505 Conjunto 2
+437,Apartamentos,1,72320555,QS 412 Conjunto E Comércio
+438,Apartamentos,1,72321001,QR 407 Conjunto 1
+439,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+440,Apartamentos,2,72304109,QN 122 Conjunto 9
+441,Apartamentos,1,72311704,QN 505 Conjunto 4
+442,Casas,2,72301612,QR 113 Conjunto 12
+443,Apartamentos,1,72305520,QS 307
+444,Casas,2,72320004,QR 410 Conjunto 4
+445,Apartamentos,1,72318580,QN 408
+446,,,,
+447,Apartamentos,2,72300545,Quadra 301 Conjunto 8
+448,Casas,,72318109,
+449,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+450,Apartamentos,1,72321012,QR 407 Conjunto 12
+451,Casas,1,72310706,QR 504 Conjunto 5
+452,Apartamentos,1,72302804,QR 118 Conjunto 3-A
+453,Apartamentos,1,72321000,QR 407
+454,Apartamentos,1,72310000,QN 320
+455,Casas,1,72325219,QR 423 Conjunto 17
+456,Casas,2,72310406,QR 502 Conjunto 6
+457,Casas,1,72331015,QR 601 Conjunto 15
+458,Apartamentos,1,72320018,QR 410 Conjunto 15-A
+459,Apartamentos,1,72339036,QR 1031 Conjunto 6
+460,Apartamentos,1,72308006,QN 312 Conjunto 6
+461,Apartamentos,1,72306408,QN 308 Conjunto 8
+462,Casas,1,72310423,QR 502 Conjunto 23
+463,Apartamentos,1,72320540,QN 412
+464,Casas,1,72311301,QR 501 Conjunto 1
+465,Apartamentos,2,72320302,QI 416 Conjunto 2
+466,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+467,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+468,Apartamentos,1,72306408,QN 308 Conjunto 8
+469,Casas,1,72318550,QS 404
+470,Casas,2,72322400,QR 610
+471,Casas,3,72322001,QR 602 Conjunto 1
+472,Apartamentos,1,72310000,QN 320
+473,Casas,3,72319118,QR 403 Conjunto 17
+474,Apartamentos,1,72325100,QR 421
+475,Casas,1,72343151,QN 213 Conjunto 1
+476,Casas,1,72307310,QR 313 Conjunto 10
+477,Casas,1,72301001,QR 103 Conjunto 1
+478,Casas,4,72320216,QR 414 Conjunto 12
+479,Apartamentos,1,72305500,QS 303
+480,,,,
+481,,,,
+482,Casas,3,72322200,QR 606
+483,Apartamentos,1,72302804,QR 118 Conjunto 3-A
+484,Apartamentos,1,72302560,QS 116
+485,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+486,Apartamentos,1,72314401,
+487,Apartamentos,1,72302203,QR 108 Conjunto 3
+488,Apartamentos,1,72308300,QR 314
+489,Casas,1,72314107,QR 514 Conjunto 7
+490,Casas,1,72322002,QR 602 Conjunto 2
+491,Casas,1,72319003,QR 401 Conjunto 3
+492,Apartamentos,1,72310100,QR 320
+493,Apartamentos,2,72331509,QS 601 Conjunto I Comércio
+494,Apartamentos,2,72302562,
+495,Apartamentos,1,72318327,QR 408 Conjunto 24-A
+496,Casas,1,72314320,QR 516 Conjunto 17
+497,Casas,1,72318000,QR 402
+498,Casas,1,72338660,QR 829
+499,Casas,1,72323009,QR 415 Conjunto 9
+500,Apartamentos,2,72320109,QR 412 Conjunto 8
+501,Apartamentos,2,72300530,Quadra 301
+502,Casas,1,72327000,QR 425
+503,Apartamentos,1,72302532,QS 110 Conjunto 2 Comércio
+504,Casas,2,72311800,QR 505
+505,Casas,1,72341110,QR 203 Conjunto 10
+506,Apartamentos,1,72301560,QS 113
+507,Casas,1,72316219,QR 210 Conjunto 18
+508,Apartamentos,2,72305401,QN 307 Conjunto 1
+509,,,,
+510,Casas,2,72322000,QR 602
+511,Casas,3,72305300,QR 305
+512,Casas,1,72321300,QR 413
+513,Casas,1,72301600,QR 113
+514,Apartamentos,1,72322570,QN 614
+515,Apartamentos,1,72318560,QN 406
+516,Casas,4,72318015,QR 402 Conjunto 15
+517,Casas,1,72322602,QR 612 Conjunto 2
+518,Apartamentos,3,72319500,QN 401
+519,Casas,3,72343150,QN 213
+520,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+521,Casas,2,72315200,QR 517
+522,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+523,Casas,2,72302009,QR 104 Conjunto 8
+524,Apartamentos,1,72309300,QR 321
+525,Casas,5 ou mais,72305300,QR 305
+526,Apartamentos,1,72305501,QS 303 Conjunto 1 Comércio
+527,Apartamentos,1,72301562,QS 113 Conjunto B
+528,Casas,2,72302811,
+529,Casas,2,72308810,QR 318 Conjunto 9
+530,Casas,1,72318540,QN 404
+531,Casas,2,72341201,QR 205 Conjunto 1
+532,Apartamentos,3,72310011,QN 320 Conjunto 11
+533,Casas,1,72304011,QR 120 Conjunto 11
+534,Casas,2,72303204,QR 127 Conjunto 4
+535,,,,
+536,Casas,2,72312600,QR 510
+537,Apartamentos,2,72315200,QR 517
+538,Casas,2,72305810,QR 309 Conjunto 9
+539,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+540,Casas,2,72310200,Setor de Mansões Sudeste
+541,Casas,2,72320109,QR 412 Conjunto 8
+542,Apartamentos,1,72308100,QR 312
+543,Apartamentos,1,72308105,QR 312 Conjunto 4-A
+544,Casas,3,72327000,QR 425
+545,Casas,1,72327006,QR 425 Conjunto 6
+546,Apartamentos,1,72308006,QN 312 Conjunto 6
+547,Apartamentos,1,72316100,QR 208
+548,Casas,2,72302009,QR 104 Conjunto 8
+549,Casas,1,72308603,QR 316 Conjunto 3
+550,Apartamentos,2,72322570,QN 614
+551,,,,
+552,Casas,1,72307608,QR 315 Conjunto 8
+553,Apartamentos,1,72321007,QR 407 Conjunto 7
+554,Apartamentos,2,72301530,QS 109
+555,Casas,1,72329000,QR 429
+556,Apartamentos,1,72320100,QR 412
+557,Casas,2,72319026,QR 401 Conjunto 26
+558,Casas,1,72321002,QR 407 Conjunto 2
+559,Casas,3,72301100,QR 105
+560,Casas,4,72315201,QR 517 Conjunto 1
+561,,,,
+562,Casas,5 ou mais,72316002,QR 206 Conjunto 2
+563,Casas,1,72316013,QR 206 Conjunto 13
+564,Casas,2,72323113,QR 417 Conjunto 13
+565,,,,
+566,Casas,3,72341201,QR 205 Conjunto 1
+567,Casas,2,72322211,QR 606 Conjunto 10
+568,Casas,2,72322607,QR 612 Conjunto 7
+569,Apartamentos,1,72315580,QS 519
+570,Casas,1,72322312,QR 608 Conjunto 11
+571,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+572,Casas,1,72312601,QR 510 Conjunto 1
+573,Apartamentos,1,72316300,QR 212
+574,Casas,1,72310400,QR 502
+575,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+576,Casas,1,72343000,QR 211
+577,Casas,2,72322302,QR 608 Conjunto 2
+578,Casas,5 ou mais,72315100,QR 515
+579,Casas,1,72325200,
+580,Apartamentos,2,72320300,QI 416
+581,Apartamentos,2,72320300,QI 416
+582,Apartamentos,1,72327100,QR 427
+583,Apartamentos,1,72309300,QR 321
+584,Casas,4,72343000,QR 211
+585,Casas,2,72341201,QR 205 Conjunto 1
+586,Casas,1,72316200,QR 210
+587,,,,
+588,Apartamentos,1,72304116,QN 122 Conjunto 15
+589,Apartamentos,2,72320300,QI 416
+590,Casas,5 ou mais,72315100,QR 515
+591,Casas,2,72316100,QR 208
+592,Casas,2,72308600,QR 316
+593,Casas,3,72310215,SMSE Conjunto 15
+594,Casas,1,72307310,QR 313 Conjunto 10
+595,Apartamentos,1,72310500,QS 320
+596,Casas,2,72327000,QR 425
+597,Apartamentos,1,72318571,QS 406 Conjunto A Comércio
+598,Apartamentos,1,72321009,QR 407 Conjunto 9
+599,Casas,4,72316002,QR 206 Conjunto 2
+600,Apartamentos,1,72315510,QS 513
+601,Casas,1,72316012,QR 206 Conjunto 12
+602,Casas,2,72318002,QR 402 Conjunto 2
+603,,,,
+604,Apartamentos,1,72313004,QN 507 Conjunto 4
+605,Apartamentos,1,72305600,QR 307
+606,Apartamentos,1,72321007,QR 407 Conjunto 7
+607,Casas,1,72338751,QR 833 Conjunto 1
+608,,,,
+609,Casas,2,72312100,QR 506
+610,Apartamentos,1,72308105,QR 312 Conjunto 4-A
+611,Apartamentos,2,72304508,QS 120 Conjunto 8
+612,Casas,1,72308800,QR 318
+613,Casas,4,72341100,QR 203
+614,Casas,1,72339118,QR 827 Conjunto 3
+615,Apartamentos,2,72320302,QI 416 Conjunto 2
+616,Casas,2,72303200,QR 127
+617,Casas,2,72303103,QR 125 Conjunto 3
+618,Apartamentos,1,72316109,QR 208 Conjunto 8
+619,Casas,3,72306605,QR 308 Conjunto 5
+620,Apartamentos,1,72318545,QN 404 Conjunto E Comércio
+621,Apartamentos,1,72318028,QR 402 Conjunto 27
+622,Apartamentos,1,72310011,QN 320 Conjunto 11
+623,Casas,4,72316012,QR 206 Conjunto 12
+624,Casas,3,72316100,QR 208
+625,Casas,2,72325001,QR 419 Conjunto 1
+626,Casas,3,72331150,QR 603 Chácara 39 Condomínio Vida Nova
+627,Apartamentos,2,72301562,QS 113 Conjunto B
+628,Casas,2,72343206,QR 215 Conjunto 6
+629,Apartamentos,1,72316300,QR 212
+630,Casas,2,72345100,QR 221
+631,Casas,2,72325100,QR 421
+632,Apartamentos,1,72302000,QR 104
+633,Apartamentos,1,72301554,QS 111 Conjunto I
+634,Apartamentos,1,72320100,QR 412
+635,Casas,2,72327000,QR 425
+636,Casas,2,72325100,QR 421
+637,Casas,2,72313700,QR 511
+638,Apartamentos,1,72302567,QS 116 Conjunto 7 Comércio
+639,Casas,2,72331300,QR 607
+640,Apartamentos,1,72300530,Quadra 301
+641,Casas,3,72331200,QR 605
+642,Apartamentos,1,72316527,QN 210 Conjunto G Comércio
+643,Casas,4,72321300,QR 413
+644,Apartamentos,2,72318500,QN 402
+645,Apartamentos,1,72308000,QN 312
+646,Casas,1,72314300,QR 516
+647,Apartamentos,2,72302209,QR 108 Conjunto 7-B
+648,Casas,2,72319000,QR 401
+649,Casas,1,72345200,QR 223
+650,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+651,Apartamentos,1,72318200,QR 406
+652,Apartamentos,1,72320100,QR 412
+653,Apartamentos,1,72305000,QN 303
+654,Casas,3,72312600,QR 510
+655,Apartamentos,1,72312003,QN 506 Conjunto 3
+656,Apartamentos,1,72321006,QR 407 Conjunto 6
+657,Apartamentos,1,72316108,QR 208 Conjunto 7-A
+658,Apartamentos,1,72302251,QN 108 Conjunto 1
+659,Apartamentos,1,72309300,QR 321
+660,Apartamentos,1,72316108,QR 208 Conjunto 7-A
+661,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+662,Apartamentos,2,72301562,QS 113 Conjunto B
+663,Apartamentos,1,72308100,QR 312
+664,Casas,1,72333404,QR 625 Conjunto 3
+665,Apartamentos,1,72304502,QS 120 Conjunto 2
+666,,,,
+667,,,,
+668,Casas,2,72302700,QR 116
+669,Apartamentos,1,72327561,QS 427 Conjunto K Comércio
+670,Casas,5 ou mais,72310211,SMSE Conjunto 11
+671,Apartamentos,2,72302532,QS 110 Conjunto 2 Comércio
+672,Casas,5 ou mais,72318012,QR 402 Conjunto 12
+673,Apartamentos,1,72310000,QN 320
+674,,,,
+675,Casas,2,72320005,QR 410 Conjunto 5
+676,Casas,2,72315115,QR 515 Conjunto 15
+677,Casas,2,72301800,QR 121
+678,Apartamentos,1,72309302,QR 321 Conjunto 2
+679,Casas,2,72302200,QR 108
+680,Apartamentos,1,72309300,QR 321
+681,Apartamentos,2,72300503,Quadra 101 Conjunto 2
+682,Apartamentos,1,72302560,QS 116
+683,Apartamentos,1,72318580,QN 408
+684,Apartamentos,1,72304101,QN 122 Conjunto 1
+685,,,,
+686,Casas,5 ou mais,72319009,QR 401 Conjunto 9
+687,Casas,4,72314306,QR 516 Conjunto 6
+688,Apartamentos,1,72316213,QR 210 Conjunto 12
+689,Apartamentos,1,72319560,QN 405
+690,,,,
+691,Casas,2,72308108,
+692,Casas,3,72304012,QR 120 Conjunto 12
+693,Casas,2,72331016,QR 601 Conjunto 16
+694,Casas,2,72322604,QR 612 Conjunto 4
+695,Casas,,72302204,
+696,Casas,1,72308800,QR 318
+697,Apartamentos,1,72302510,QS 106
+698,,,,
+699,Casas,1,72308800,QR 318
+700,Casas,2,72331300,QR 607
+701,Casas,4,72341200,QR 205
+702,Casas,3,72302300,QR 110
+703,Casas,2,72313700,QR 511
+704,Apartamentos,1,72321006,QR 407 Conjunto 6
+705,Casas,4,72316000,QR 206
+706,Apartamentos,1,72341100,QR 203
+707,,,,
+708,Casas,2,72319000,QR 401
+709,Apartamentos,1,72300530,Quadra 301
+710,Casas,1,72345200,QR 223
+711,Casas,3,72331200,QR 605
+712,Casas,1,72312800,QR 512
+713,Apartamentos,1,72308000,QN 312
+714,Casas,1,72314300,QR 516
+715,Casas,4,72321300,QR 413
+716,Apartamentos,1,72321012,QR 407 Conjunto 12
+717,Casas,2,72318033,QR 402 Conjunto 32
+718,Apartamentos,2,72302605,QR 114 Conjunto 4-A Comércio
+719,Casas,3,72331150,QR 603 Chácara 39 Condomínio Vida Nova
+720,Apartamentos,1,72318572,QS 406 Conjunto B Comércio
+721,Casas,2,72325200,QR 423
+722,Casas,2,72321317,QR 413 Conjunto 14
+723,Apartamentos,1,72302705,QR 116 Conjunto 4-A Comércio
+724,Casas,3,72341406,QR 209 Conjunto 6
+725,,,,
+726,Casas,4,72308812,QR 318 Conjunto 11
+727,Casas,4,72315114,QR 515 Conjunto 14
+728,Apartamentos,1,72301502,QS 103 Conjunto 2 Comércio
+729,Apartamentos,1,72309305,QR 321 Conjunto 5
+730,Casas,2,72341201,QR 205 Conjunto 1
+731,Casas,2,72312600,QR 510
+732,Apartamentos,2,72302151,QN 106 Conjunto 1
+733,Apartamentos,1,72320018,QR 410 Conjunto 15-A
+734,Casas,1,72318200,QR 406
+735,Casas,1,72331802,QR 615 Conjunto 2
+736,Casas,5 ou mais,72341200,QR 205
+737,,,,
+738,Apartamentos,2,72310502,QS 320 Conjunto 2 Comércio
+739,Apartamentos,1,72325109,QR 421 Conjunto 8
+740,Casas,1,72318010,QR 402 Conjunto 10
+741,Casas,1,72309609,QR 323 Conjunto 9
+742,Casas,2,72311803,QR 505 Conjunto 3
+743,Apartamentos,1,72321003,QR 407 Conjunto 3
+744,Apartamentos,1,72321000,QR 407
+745,Casas,3,72319010,
+746,Apartamentos,1,72302804,QR 118 Conjunto 3-A
+747,Casas,3,72322000,QR 602
+748,Apartamentos,1,72321007,QR 407 Conjunto 7
+749,Casas,4,72316100,QR 208
+750,Casas,2,72320000,QR 410
+751,Apartamentos,1,72322704,QR 614 Conjunto 4
+752,Apartamentos,3,72304053,QN 120 Conjunto 3
+753,Apartamentos,1,72309300,QR 321
+754,Casas,5 ou mais,72329000,QR 429
+755,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+756,,,,
+757,Apartamentos,1,72310011,QN 320 Conjunto 11
+758,Casas,1,72311100,QR 327
+759,Apartamentos,1,72322571,QN 614 Conjunto A
+760,Casas,2,72308806,QR 318 Conjunto 6
+761,Apartamentos,2,72304052,QN 120 Conjunto 2
+762,Casas,2,72323105,QR 417 Conjunto 5
+763,Casas,1,72314302,QR 516 Conjunto 2
+764,Casas,1,72321204,QR 411 Conjunto 4
+765,Apartamentos,1,72321000,QR 407
+766,Apartamentos,1,72316300,QR 212
+767,Casas,2,72325001,QR 419 Conjunto 1
+768,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+769,,,,
+770,,,,
+771,Casas,5 ou mais,72310200,Setor de Mansões Sudeste
+772,Casas,1,72333100,QR 619
+773,Apartamentos,2,72321103,QR 409 Conjunto 3
+774,Casas,2,72318000,QR 402
+775,Casas,3,72308804,QR 318 Conjunto 4
+776,Apartamentos,1,72313203,QN 509 Conjunto 3
+777,Apartamentos,1,72309304,QR 321 Conjunto 4
+778,Apartamentos,2,72322801,QI 616 Conjunto 1
+779,Apartamentos,1,72318520,QS 402
+780,Apartamentos,1,72325109,QR 421 Conjunto 8
+781,Apartamentos,1,72321005,QR 407 Conjunto 5
+782,Apartamentos,1,72309306,QR 321 Conjunto 6
+783,Apartamentos,1,72309307,QR 321 Conjunto 7
+784,Casas,1,72315019,QR 513 Conjunto 19
+785,Casas,1,72318220,QR 406 Conjunto 19
+786,Apartamentos,2,72321000,QR 407
+787,Casas,4,72302520,QS 108
+788,Apartamentos,1,72302151,QN 106 Conjunto 1
+789,Casas,1,72321102,QR 409 Conjunto 2
+790,Apartamentos,1,72302304,QR 110 Conjunto 4
+791,Casas,2,72325001,QR 419 Conjunto 1
+792,Casas,5 ou mais,72308100,QR 312
+793,Apartamentos,1,72316107,QR 208 Conjunto 7
+794,Casas,2,72308807,QR 318 Conjunto 7
+795,Apartamentos,1,72308007,QN 312 Conjunto 7
+796,Casas,5 ou mais,72320100,QR 412
+797,Casas,1,72333104,QR 619 Conjunto 4
+798,Casas,2,72321207,QR 411 Conjunto 7
+799,Apartamentos,1,72321007,QR 407 Conjunto 7
+800,Casas,1,72320225,QR 414 Conjunto 18
+801,Apartamentos,1,72321007,QR 407 Conjunto 7
+802,Casas,2,72316300,QR 212
+803,Casas,2,72307613,QR 315 Conjunto 13
+804,Apartamentos,1,72318512,QN 402 Conjunto L Comércio
+805,Casas,5 ou mais,72305300,QR 305
+806,Apartamentos,1,72318000,QR 402
+807,Casas,1,72303204,QR 127 Conjunto 4
+808,Apartamentos,1,72320000,QR 410
+809,Casas,5 ou mais,72316002,QR 206 Conjunto 2
+810,Apartamentos,1,72302151,QN 106 Conjunto 1
+811,Casas,1,72307303,QR 313 Conjunto 3
+812,Apartamentos,1,72310011,QN 320 Conjunto 11
+813,Casas,3,72323014,QR 415 Conjunto 14
+814,Apartamentos,1,72302352,QN 110 Conjunto 2
+815,Casas,1,72316119,QR 208 Conjunto 18
+816,Casas,2,72307107,QR 311 Conjunto 7
+817,Apartamentos,1,72309303,QR 321 Conjunto 3
+818,Apartamentos,1,72302304,QR 110 Conjunto 4
+819,Apartamentos,1,72316300,QR 212
+820,,,,
+821,Apartamentos,1,72321012,QR 407 Conjunto 12
+822,Casas,2,72333100,QR 619
+823,Apartamentos,2,72301000,QR 103
+824,Casas,1,72314000,QN 514
+825,Apartamentos,1,72302350,QN 110
+826,Casas,3,72339078,QR 1033 Conjunto 8
+827,Casas,2,72318026,QR 402 Conjunto 25
+828,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+829,Apartamentos,2,72310004,QN 320 Conjunto 4
+830,Casas,1,72304200,QR 122
+831,Apartamentos,1,72318540,QN 404
+832,Apartamentos,1,72318300,QR 408
+833,Casas,1,72316100,QR 208
+834,Apartamentos,1,72302567,QS 116 Conjunto 7 Comércio
+835,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+836,Casas,2,72321303,QR 413 Conjunto 3
+837,,,,
+838,,,,
+839,Casas,1,72308800,QR 318
+840,Apartamentos,1,72308007,QN 312 Conjunto 7
+841,Casas,3,72312302,QR 508 Conjunto 2
+842,Apartamentos,1,72309300,QR 321
+843,Apartamentos,1,72325109,QR 421 Conjunto 8
+844,Casas,2,72331300,QR 607
+845,,,,
+846,Apartamentos,1,72321506,QN 407 Conjunto F Comércio
+847,Casas,2,72318230,QR 406 Conjunto 28
+848,,,,
+849,Casas,2,72313700,QR 511
+850,Casas,1,72322016,QR 602 Conjunto 16
+851,Apartamentos,1,72309306,QR 321 Conjunto 6
+852,Casas,1,72320000,QR 410
+853,Casas,1,72327000,QR 425
+854,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+855,Apartamentos,2,72321535,QS 409 Conjunto E Comércio
+856,Apartamentos,1,72321000,QR 407
+857,Apartamentos,2,72300530,Quadra 301
+858,Apartamentos,1,72308000,QN 312
+859,Casas,2,72319000,QR 401
+860,Apartamentos,1,72300530,Quadra 301
+861,Casas,5 ou mais,72310200,Setor de Mansões Sudeste
+862,Casas,1,72314300,QR 516
+863,Casas,1,72345200,QR 223
+864,Casas,4,72321300,QR 413
+865,Apartamentos,1,72310000,QN 320
+866,Casas,3,72331200,QR 605
+867,,,,
+868,Apartamentos,1,72302251,QN 108 Conjunto 1
+869,,,,
+870,Casas,2,72307601,QR 315 Conjunto 1
+871,,,,
+872,Casas,2,72314117,QR 514 Conjunto 16
+873,Casas,5 ou mais,72308603,QR 316 Conjunto 3
+874,Apartamentos,2,72320300,QI 416
+875,Apartamentos,2,72320300,QI 416
+876,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+877,Apartamentos,2,72306501,QS 304 Conjunto 1 Comércio
+878,Casas,3,72309604,QR 323 Conjunto 4
+879,Casas,2,72314709,ADE Conjunto 9
+880,Casas,1,72302200,QR 108
+881,Apartamentos,1,72309300,QR 321
+882,,,,
+883,Casas,2,72303104,QR 125 Conjunto 4
+884,Casas,1,72339124,QR 827 Conjunto 9
+885,Apartamentos,2,72316041,Quadra 202 Conjunto 1
+886,Apartamentos,1,72310501,QS 320 Conjunto 1 Comércio
+887,Apartamentos,1,72309304,QR 321 Conjunto 4
+888,Casas,1,72314301,QR 516 Conjunto 1
+889,,,,
+890,Casas,3,72318000,QR 402
+891,Apartamentos,2,72305300,QR 305
+892,Apartamentos,1,72309304,QR 321 Conjunto 4
+893,Casas,2,72323000,QR 415
+894,Casas,2,72318002,QR 402 Conjunto 2
+895,Casas,1,72343202,QR 215 Conjunto 2
+896,Apartamentos,1,72305500,QS 303
+897,Apartamentos,1,72339079,QR 1033 Conjunto 9
+898,Casas,2,72318000,QR 402
+899,Apartamentos,1,72316300,QR 212
+900,Apartamentos,1,72302513,QS 106 Conjunto 3 Comércio
+901,Apartamentos,1,72309300,QR 321
+902,Casas,1,72307310,QR 313 Conjunto 10
+903,Casas,1,72307310,QR 313 Conjunto 10
+904,Casas,2,72316100,QR 208
+905,Apartamentos,1,72302151,QN 106 Conjunto 1
+906,Apartamentos,2,72318585,QN 408 Conjunto E Comércio
+907,Casas,5 ou mais,72315100,
+908,Casas,2,72310108,QR 320 Conjunto 8
+909,Casas,5 ou mais,72315100,QR 515
+910,Casas,2,72322300,QR 608
+911,,,,
+912,Apartamentos,1,72315580,QS 519
+913,Casas,2,72322300,QR 608
+914,Casas,2,72343200,QR 215
+915,Casas,2,72316300,QR 212
+916,Casas,1,72316300,QR 212
+917,Apartamentos,1,72325520,QS 419
+918,Casas,1,72314103,QR 514 Conjunto 3
+919,,,,
+920,Casas,2,72322106,QR 604 Conjunto 6
+921,Apartamentos,1,72309300,QR 321
+922,Casas,3,72331150,QR 603 Chácara 39 Condomínio Vida Nova
+923,Apartamentos,1,72309202,QN 321 Conjunto B
+924,Apartamentos,1,72306408,QN 308 Conjunto 8
+925,Casas,3,72302603,QR 114 Conjunto 3 Comércio
+926,Apartamentos,1,72325520,QS 419
+927,Casas,2,72315313,QR 519 Conjunto 13
+928,Apartamentos,1,72318564,QN 406 Conjunto D Comércio
+929,Casas,2,72321300,QR 413
+930,Casas,1,72316200,QR 210
+931,Apartamentos,1,72301502,QS 103 Conjunto 2 Comércio
+932,,,,
+933,Casas,3,72316013,QR 206 Conjunto 13
+934,Apartamentos,1,72302563,QS 116 Conjunto 3
+935,Casas,3,72327100,QR 427
+936,Casas,3,72327000,QR 425
+937,Apartamentos,2,72305507,QS 303 Conjunto 7 Comércio
+938,Casas,2,72341200,QR 205
+939,Casas,1,72311104,QR 327 Conjunto 4
+940,Apartamentos,1,72318580,QN 408
+941,,,,
+942,Casas,2,72316090,QR 204 Conjunto 10
+943,Apartamentos,2,72310011,QN 320 Conjunto 11
+944,Casas,2,72305800,QR 309
+945,Apartamentos,1,72309306,QR 321 Conjunto 6
+946,Casas,1,72302701,QR 116 Conjunto 1 Comércio
+947,Apartamentos,2,72318520,QS 402
+948,Apartamentos,2,72304005,QR 120 Conjunto 5
+949,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+950,Casas,2,72321000,QR 407
+951,Apartamentos,1,72316100,QR 208
+952,Apartamentos,1,72304052,QN 120 Conjunto 2
+953,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+954,Apartamentos,1,72321551,QS 411 Conjunto A
+955,Casas,2,72325200,QR 423
+956,Apartamentos,1,72308530,QS 318
+957,Casas,2,72314307,QR 516 Conjunto 7
+958,Casas,1,72341111,QR 203 Conjunto 11
+959,,,,
+960,Apartamentos,1,72312301,QR 508 Conjunto 1
+961,Apartamentos,1,72319505,QN 401 Conjunto E Comércio
+962,Apartamentos,1,72304051,QN 120 Conjunto 1
+963,Apartamentos,1,72309300,QR 321
+964,Apartamentos,1,72321000,QR 407
+965,Apartamentos,1,72310502,QS 320 Conjunto 2 Comércio
+966,Casas,2,72314104,QR 514 Conjunto 4
+967,Casas,3,72322200,QR 606
+968,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+969,Casas,1,72343004,QR 211 Conjunto 4
+970,Apartamentos,1,72321005,QR 407 Conjunto 5
+971,Casas,1,72315500,QN 513
+972,Casas,2,72316100,QR 208
+973,Apartamentos,1,72310000,QN 320
+974,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+975,Casas,5 ou mais,72341203,QR 205 Conjunto 3
+976,Apartamentos,1,72321510,QS 407
+977,Apartamentos,2,72318580,QN 408
+978,Apartamentos,2,72320326,QI 416 Conjunto P
+979,Casas,3,72321312,QR 413 Conjunto 11
+980,Apartamentos,1,72321012,QR 407 Conjunto 12
+981,Casas,2,72345100,QR 221
+982,Apartamentos,1,72321505,QN 407 Conjunto E Comércio
+983,Apartamentos,1,72300545,Quadra 301 Conjunto 8
+984,Apartamentos,1,72310319,QN 502 Conjunto 19
+985,Casas,1,72301709,QR 115 Conjunto 9
+986,Casas,1,72308800,QR 318
+987,Casas,2,72314300,QR 516
+988,Casas,4,72304204,QR 122 Conjunto 4
+989,,,,
+990,,,,
+991,Apartamentos,1,72318028,QR 402 Conjunto 27
+992,Casas,3,72302320,QR 110 Conjunto 10A
+993,Casas,1,72345200,QR 223
+994,Casas,5 ou mais,72308814,QR 318 Conjunto 13
+995,Casas,4,72321300,QR 413
+996,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+997,Casas,3,72312611,QR 510 Conjunto 11
+998,Apartamentos,1,72316108,QR 208 Conjunto 7-A
+999,Casas,1,72316012,QR 206 Conjunto 12
+1000,Casas,2,72308811,QR 318 Conjunto 10
+1001,Apartamentos,,72302560,QS 116
+1002,,,,
+1003,,,,
+1004,Casas,4,72308812,QR 318 Conjunto 11
+1005,Casas,3,72316100,QR 208
+1006,Casas,5 ou mais,72320100,QR 412
+1007,Apartamentos,2,72304006,QR 120 Conjunto 6
+1008,Apartamentos,1,72318545,QN 404 Conjunto E Comércio
+1009,Casas,2,72325200,QR 423
+1010,,,,
+1011,,,,
+1012,Casas,5 ou mais,72308315,QR 314 Conjunto 13
+1013,Casas,2,72331300,QR 607
+1014,Casas,1,72345303,QR 225 Conjunto 3
+1015,Casas,5 ou mais,72315100,QR 515
+1016,Apartamentos,1,72308000,QN 312
+1017,Casas,1,72307310,QR 313 Conjunto 10
+1018,,,,
+1019,Apartamentos,1,72300530,Quadra 301
+1020,Casas,2,72313700,QR 511
+1021,,,,
+1022,Casas,2,72319000,QR 401
+1023,Casas,1,72318206,QR 406 Conjunto 6
+1024,Casas,3,72331200,QR 605
+1025,Casas,5 ou mais,72319120,QR 403 Conjunto 19
+1026,Apartamentos,2,72310527,QS 502 Conjunto 7 Comércio
+1027,Apartamentos,2,72318300,QR 408
+1028,Casas,2,72345106,QR 221 Conjunto 6
+1029,Casas,1,72302520,QS 108
+1030,,,,
+1031,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+1032,Apartamentos,1,72305506,QS 303 Conjunto 6 Comércio
+1033,Casas,2,72316004,QR 206 Conjunto 4
+1034,Apartamentos,2,72305506,QS 303 Conjunto 6 Comércio
+1035,Casas,3,72327100,QR 427
+1036,Apartamentos,1,72310100,QR 320
+1037,Apartamentos,2,72305500,QS 303
+1038,Apartamentos,2,72300499,Quadra 101
+1039,Casas,1,72327010,QR 425 Conjunto 10
+1040,Casas,2,72322014,QR 602 Conjunto 14
+1041,Apartamentos,1,72321003,QR 407 Conjunto 3
+1042,Apartamentos,1,72321002,QR 407 Conjunto 2
+1043,Apartamentos,1,72318580,QN 408
+1044,Apartamentos,2,72325000,QR 419
+1045,Casas,1,72310708,QR 504 Conjunto 7
+1046,Casas,3,72302320,QR 110 Conjunto 10A
+1047,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+1048,Casas,1,72318100,QR 404
+1049,Apartamentos,1,72309300,QR 321
+1050,Apartamentos,1,72311503,QS 501 Conjunto 3 Comércio
+1051,Apartamentos,2,72311503,QS 501 Conjunto 3 Comércio
+1052,Casas,2,72305802,QR 309 Conjunto 2
+1053,Casas,2,72318232,QR 406 Conjunto 30
+1054,Casas,2,72314105,QR 514 Conjunto 5
+1055,Casas,1,72318203,QR 406 Conjunto 3
+1056,Casas,3,72316013,QR 206 Conjunto 13
+1057,Casas,2,72318112,QR 404 Conjunto 11
+1058,,,,
+1059,Casas,4,72306601,QR 308 Conjunto 1
+1060,Apartamentos,1,72320580,QS 414
+1061,Apartamentos,2,72300545,Quadra 301 Conjunto 8
+1062,Casas,1,72338710,QR 831
+1063,,,,
+1064,,,,
+1065,,,,
+1066,Casas,1,72327026,QR 425 Conjunto 25
+1067,Apartamentos,1,72309302,QR 321 Conjunto 2
+1068,Apartamentos,1,72308007,QN 312 Conjunto 7
+1069,Apartamentos,1,72341104,QR 203 Conjunto 4
+1070,Casas,1,72303200,QR 127
+1071,Apartamentos,1,72318300,QR 408
+1072,,,,
+1073,Casas,2,72303200,QR 127
+1074,Apartamentos,1,72320500,QN 410
+1075,Apartamentos,1,72320326,QI 416 Conjunto P
+1076,Apartamentos,1,72310000,QN 320
+1077,Casas,3,72318031,QR 402 Conjunto 30
+1078,Apartamentos,1,72318580,QN 408
+1079,,,,
+1080,Casas,1,72312601,QR 510 Conjunto 1
+1081,,,,
+1082,Apartamentos,1,72309300,QR 321
+1083,Apartamentos,1,72310004,QN 320 Conjunto 4
+1084,Apartamentos,1,72309300,QR 321
+1085,Apartamentos,1,72305501,QS 303 Conjunto 1 Comércio
+1086,Apartamentos,2,72306501,QS 304 Conjunto 1 Comércio
+1087,Apartamentos,1,72305520,QS 307
+1088,Apartamentos,1,72300533,Quadra 301 Conjunto 2
+1089,Apartamentos,1,72309302,QR 321 Conjunto 2
+1090,,,,
+1091,Apartamentos,1,72321100,QR 409
+1092,,,,
+1093,Apartamentos,1,72321000,QR 407
+1094,,,,
+1095,Casas,2,72314100,QR 514
+1096,Casas,1,72320202,QR 414 Conjunto 2
+1097,Apartamentos,1,72316524,QN 210 Conjunto D Comércio
+1098,Apartamentos,1,72321003,QR 407 Conjunto 3
+1099,,,,
+1100,,,,
+1101,Apartamentos,1,72316300,QR 212
+1102,Casas,1,72325210,QR 423 Conjunto 9
+1103,,,,
+1104,Casas,2,72316000,QR 206
+1105,Apartamentos,1,72322701,QR 614 Conjunto 1
+1106,Casas,1,72331011,QR 601 Conjunto 11
+1107,Apartamentos,1,72321000,QR 407
+1108,Apartamentos,1,72327561,QS 427 Conjunto K Comércio
+1109,Apartamentos,1,72321000,QR 407
+1110,Apartamentos,2,72319500,QN 401
+1111,,,,
+1112,Casas,2,72312705,QN 512 Conjunto 5
+1113,Apartamentos,2,72320301,QI 416 Conjunto 1
+1114,Apartamentos,1,72309304,QR 321 Conjunto 4
+1115,Apartamentos,1,72321505,QN 407 Conjunto E Comércio
+1116,Casas,3,72305115,QR 303 Conjunto 14
+1117,Apartamentos,1,72309307,QR 321 Conjunto 7
+1118,Apartamentos,1,72318576,QS 406 Conjunto F Comércio
+1119,Apartamentos,1,72318576,QS 406 Conjunto F Comércio
+1120,Casas,1,72327000,QR 425
+1121,Casas,3,72319025,QR 401 Conjunto 25
+1122,Apartamentos,2,72320300,QI 416
+1123,Casas,4,72315108,QR 515 Conjunto 8
+1124,Apartamentos,1,72321514,QS 407 Conjunto D Comércio
+1125,Apartamentos,1,72305501,QS 303 Conjunto 1 Comércio
+1126,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+1127,Casas,1,72318107,QR 404 Conjunto 6
+1128,,,,
+1129,Casas,4,72341100,QR 203
+1130,Casas,2,72341207,QR 205 Conjunto 7
+1131,,,,
+1132,Casas,1,72316013,QR 206 Conjunto 13
+1133,Apartamentos,1,72309306,QR 321 Conjunto 6
+1134,Casas,1,72318230,QR 406 Conjunto 28
+1135,Casas,2,72335204,QR 633 Conjunto 2-B
+1136,Apartamentos,1,72322575,QN 614 Conjunto E
+1137,Apartamentos,1,72315558,QS 517 Conjunto H Comércio
+1138,,,,
+1139,Apartamentos,1,72306408,QN 308 Conjunto 8
+1140,Casas,2,72303200,QR 127
+1141,Casas,1,72327026,QR 425 Conjunto 25
+1142,Casas,2,72325200,QR 423
+1143,Apartamentos,1,72321000,QR 407
+1144,Casas,2,72329224,QR 433 Conjunto 18
+1145,Apartamentos,1,72302707,QR 116 Conjunto 6 Comércio
+1146,Casas,3,72311100,QR 327
+1147,Apartamentos,1,72310000,QN 320
+1148,Apartamentos,1,72315581,QS 519 Conjunto A Comércio
+1149,,,,
+1150,Casas,1,72302310,QR 110 Conjunto 10
+1151,Apartamentos,1,72316300,QR 212
+1152,Apartamentos,1,72309305,QR 321 Conjunto 5
+1153,Apartamentos,1,72321007,QR 407 Conjunto 7
+1154,Apartamentos,1,72309306,QR 321 Conjunto 6
+1155,Apartamentos,1,72321000,QR 407
+1156,,,,
+1157,,,,
+1158,Apartamentos,1,72321503,QN 407 Conjunto C Comércio
+1159,Apartamentos,1,72309300,QR 321
+1160,Casas,1,72329200,QR 433
+1161,Apartamentos,1,72320300,QI 416
+1162,Apartamentos,1,72321000,QR 407
+1163,Casas,1,72313712,QR 511 Conjunto 12
+1164,Apartamentos,1,72309303,QR 321 Conjunto 3
+1165,Apartamentos,1,72321012,QR 407 Conjunto 12
+1166,Casas,1,72302350,QN 110
+1167,Apartamentos,2,72322570,QN 614
+1168,Apartamentos,1,72321000,QR 407
+1169,Apartamentos,1,72321007,QR 407 Conjunto 7
+1170,Casas,1,72339120,
+1171,Casas,5 ou mais,72341203,
+1172,Apartamentos,1,72309307,QR 321 Conjunto 7
+1173,Apartamentos,1,72319502,QN 401 Conjunto B Comércio
+1174,Casas,2,72320027,QR 410 Conjunto 24
+1175,Apartamentos,1,72310000,QN 320
+1176,Apartamentos,1,72321007,QR 407 Conjunto 7
+1177,Apartamentos,1,72321501,QN 407 Conjunto A Comércio
+1178,Apartamentos,1,72302151,QN 106 Conjunto 1
+1179,Apartamentos,1,72309306,QR 321 Conjunto 6
+1180,Apartamentos,1,72309300,QR 321
+1181,Casas,3,72316300,QR 212
+1182,Apartamentos,2,72300530,Quadra 301
+1183,Casas,5 ou mais,72312811,QR 512 Conjunto 10
+1184,Apartamentos,1,72318586,QN 408 Conjunto F Comércio
+1185,Apartamentos,2,72320300,QI 416
+1186,Apartamentos,1,72327505,QN 425 Conjunto E Comércio
+1187,Casas,,72320000,QR 410
+1188,Apartamentos,1,72321003,QR 407 Conjunto 3
+1189,Apartamentos,1,72309305,QR 321 Conjunto 5
+1190,Apartamentos,1,72302562,QS 116 Conjunto 2 Comércio
+1191,Apartamentos,1,72302562,QS 116 Conjunto 2 Comércio
+1192,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+1193,,,,
+1194,,,,
+1195,Apartamentos,1,72321000,QR 407
+1196,Apartamentos,1,72321510,QS 407
+1197,Apartamentos,1,72309300,QR 321
+1198,Apartamentos,1,72309303,QR 321 Conjunto 3
+1199,Apartamentos,1,72320119,QR 412 Conjunto 17
+1200,Apartamentos,1,72321006,QR 407 Conjunto 6
+1201,Casas,1,72308800,QR 318
+1202,Apartamentos,1,72302251,QN 108 Conjunto 1
+1203,Apartamentos,1,72300530,Quadra 301
+1204,Apartamentos,1,72305109,QR 303 Conjunto 9
+1205,Apartamentos,1,72321500,QN 407
+1206,Casas,2,72313700,QR 511
+1207,Casas,1,72323015,QR 415 Conjunto 15
+1208,Casas,2,72331300,QR 607
+1209,Casas,2,72318232,QR 406 Conjunto 30
+1210,Casas,1,72314300,
+1211,Casas,2,72319000,QR 401
+1212,Apartamentos,1,72308000,QN 312
+1213,Apartamentos,1,72321006,QR 407 Conjunto 6
+1214,Casas,3,72331200,QR 605
+1215,Casas,1,72345200,QR 223
+1216,Apartamentos,1,72309303,QR 321 Conjunto 3
+1217,Apartamentos,1,72309300,QR 321
+1218,Casas,4,72321300,QR 413
+1219,Casas,2,72322204,QR 606 Conjunto 4
+1220,Apartamentos,1,72300545,Quadra 301 Conjunto 8
+1221,Apartamentos,2,72304103,QN 122 Conjunto 3
+1222,,,,
+1223,Apartamentos,1,72321012,QR 407 Conjunto 12
+1224,Casas,3,72304203,QR 122 Conjunto 3
+1225,Casas,1,72307310,QR 313 Conjunto 10
+1226,Apartamentos,2,72302151,QN 106 Conjunto 1
+1227,Apartamentos,2,72300545,Quadra 301 Conjunto 8
+1228,Apartamentos,2,72341001,Quadra 201 Conjunto 1
+1229,Apartamentos,2,72301560,QS 113
+1230,Apartamentos,2,72341001,Quadra 201 Conjunto 1
+1231,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1232,Apartamentos,2,72320528,QS 410 Conjunto H Comércio
+1233,Casas,2,72310215,SMSE Conjunto 15
+1234,Apartamentos,2,72320300,QI 416
+1235,Apartamentos,2,72320300,QI 416
+1236,Apartamentos,2,72302115,QR 106 Conjunto 15
+1237,Apartamentos,1,72316300,QR 212
+1238,,,,
+1239,Casas,1,72339118,QR 827 Conjunto 3
+1240,Apartamentos,1,72309307,QR 321 Conjunto 7
+1241,Casas,1,72307310,QR 313 Conjunto 10
+1242,Apartamentos,2,72320300,QI 416
+1243,Casas,2,72318002,QR 402 Conjunto 2
+1244,Casas,2,72316100,QR 208
+1245,Apartamentos,1,72316300,QR 212
+1246,,,,
+1247,Casas,5 ou mais,72315100,QR 515
+1248,Casas,5 ou mais,72315100,QR 515
+1249,,,,
+1250,Apartamentos,1,72318586,QN 408 Conjunto F Comércio
+1251,Casas,2,72316122,QR 208 Conjunto 21
+1252,Casas,1,72308800,
+1253,Casas,2,72331300,QR 607
+1254,Casas,2,72313700,QR 511
+1255,Apartamentos,1,72300530,Quadra 301
+1256,Apartamentos,1,72321006,QR 407 Conjunto 6
+1257,Apartamentos,1,72321000,QR 407
+1258,Apartamentos,1,72308000,QN 312
+1259,Casas,2,72319000,QR 401
+1260,Casas,1,72314300,QR 516
+1261,Casas,1,72345200,QR 223
+1262,Casas,3,72331200,QR 605
+1263,Apartamentos,2,72320300,QI 416
+1264,Casas,4,72321300,QR 413
+1265,Apartamentos,1,72322700,QR 614
+1266,Apartamentos,5 ou mais,72338697,QN 831 Conjunto 2
+1267,Casas,1,72325200,QR 423
+1268,Apartamentos,1,72321012,QR 407 Conjunto 12
+1269,Casas,1,72318000,QR 402
+1270,Apartamentos,1,72321005,QR 407 Conjunto 5
+1271,Apartamentos,1,72309301,QR 321 Conjunto 1
+1272,Apartamentos,1,72305506,QS 303 Conjunto 6 Comércio
+1273,Apartamentos,1,72321000,QR 407
+1274,,,,
+1275,Casas,1,72320540,QN 412
+1276,Apartamentos,1,72320201,QR 414 Conjunto 1
+1277,Apartamentos,1,72309307,QR 321 Conjunto 7
+1278,Casas,5 ou mais,72319019,QR 401 Conjunto 19
+1279,Apartamentos,1,72321006,QR 407 Conjunto 6
+1280,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1281,,,,
+1282,Casas,2,72316100,QR 208
+1283,Casas,2,72318002,QR 402 Conjunto 2
+1284,Casas,1,72307310,QR 313 Conjunto 10
+1285,Casas,1,72307310,QR 313 Conjunto 10
+1286,Casas,5 ou mais,72315100,QR 515
+1287,Casas,3,72302052,QN 104 Conjunto 2
+1288,Casas,5 ou mais,72315100,QR 515
+1289,Apartamentos,0,72302804,QR 118 Conjunto 3-A
+1290,Casas,4,72312603,
+1291,Apartamentos,1,72310010,QN 320 Conjunto 10
+1292,Apartamentos,1,72310000,QN 320
+1293,Casas,2,72331300,QR 607
+1294,Apartamentos,1,72309303,QR 321 Conjunto 3
+1295,Casas,1,72308800,QR 318
+1296,Casas,,72321100,QR 409
+1297,Casas,2,72313700,QR 511
+1298,Casas,2,72319000,QR 401
+1299,Apartamentos,1,72300530,Quadra 301
+1300,Apartamentos,1,72308000,QN 312
+1301,Casas,1,72345200,QR 223
+1302,Casas,1,72314300,QR 516
+1303,Casas,3,72331200,QR 605
+1304,Casas,4,72321300,QR 413
+1305,Apartamentos,1,72302202,QR 108 Conjunto 2
+1306,Apartamentos,1,72309300,QR 321
+1307,Apartamentos,2,72320540,QN 412
+1308,Apartamentos,2,72341001,Quadra 201 Conjunto 1
+1309,Apartamentos,2,72341001,Quadra 201 Conjunto 1
+1310,Casas,2,72318217,QR 406 Conjunto 16
+1311,Apartamentos,1,72321006,QR 407 Conjunto 6
+1312,Apartamentos,1,72321012,
+1313,Apartamentos,1,72321012,QR 407 Conjunto 12
+1314,Casas,5 ou mais,72315100,QR 515
+1315,Apartamentos,1,72321006,QR 407 Conjunto 6
+1316,,,,
+1317,Casas,5 ou mais,72315100,QR 515
+1318,Casas,2,72316100,QR 208
+1319,Casas,1,72307310,QR 313 Conjunto 10
+1320,Casas,1,72307310,QR 313 Conjunto 10
+1321,Apartamentos,2,72320300,QI 416
+1322,Casas,2,72318002,QR 402 Conjunto 2
+1323,Apartamentos,1,72321012,QR 407 Conjunto 12
+1324,Apartamentos,1,72316300,QR 212
+1325,Casas,1,72308807,QR 318 Conjunto 7
+1326,Apartamentos,1,72310000,QN 320
+1327,Casas,1,72312800,QR 512
+1328,Apartamentos,2,72304103,QN 122 Conjunto 3
+1329,Apartamentos,2,72301560,QS 113
+1330,Casas,2,72315214,QR 517 Conjunto 14
+1331,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1332,Apartamentos,2,72320528,QS 410 Conjunto H Comércio
+1333,Casas,1,72333306,QR 623 Conjunto 5
+1334,Apartamentos,1,72309300,QR 321
+1335,Apartamentos,1,72321000,QR 407
+1336,Apartamentos,1,72310700,QR 504
+1337,Casas,3,72339118,QR 827 Conjunto 3
+1338,Casas,4,72333308,QR 623 Conjunto 6
+1339,Casas,2,72316119,QR 208 Conjunto 18
+1340,Apartamentos,1,72321001,QR 407 Conjunto 1
+1341,Apartamentos,1,72321012,QR 407 Conjunto 12
+1342,Apartamentos,1,72320204,QR 414 Conjunto 4
+1343,Casas,2,72331102,QR 603 Conjunto 2
+1344,Apartamentos,1,72309300,QR 321
+1345,Casas,1,72327000,QR 425
+1346,Apartamentos,1,72321520,QN 409
+1347,Apartamentos,1,72301553,QS 111 Conjunto H
+1348,Apartamentos,0,72318327,QR 408 Conjunto 24-A
+1349,,,,
+1350,Casas,1,72318100,QR 404
+1351,Apartamentos,1,72309308,QR 321 Conjunto 8
+1352,Apartamentos,1,72309307,QR 321 Conjunto 7
+1353,Casas,2,72322500,QS 602
+1354,,,,
+1355,Apartamentos,1,72309303,QR 321 Conjunto 3
+1356,,,,
+1357,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1358,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1359,Apartamentos,1,72321009,QR 407 Conjunto 9
+1360,Apartamentos,1,72309300,QR 321
+1361,Apartamentos,1,72309300,QR 321
+1362,Casas,2,72319000,QR 401
+1363,Apartamentos,1,72300501,Quadra 101 Conjunto 1
+1364,Apartamentos,2,72320300,QI 416
+1365,Apartamentos,1,72310004,QN 320 Conjunto 4
+1366,Apartamentos,2,72320300,QI 416
+1367,Apartamentos,1,72316300,QR 212
+1368,Apartamentos,1,72302016,QR 104 Conjunto 15
+1369,Apartamentos,1,72309300,QR 321
+1370,Apartamentos,1,72308530,QS 318
+1371,Apartamentos,1,72322500,
+1372,Apartamentos,1,72302151,QN 106 Conjunto 1
+1373,Apartamentos,1,72327026,QR 425 Conjunto 25
+1374,Apartamentos,3,72318230,QR 406 Conjunto 28
+1375,Apartamentos,1,72302802,QR 118 Conjunto 2
+1376,Casas,1,72318100,QR 404
+1377,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1378,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1379,Apartamentos,1,72321550,QS 411
+1380,Apartamentos,1,72309307,QR 321 Conjunto 7
+1381,Apartamentos,1,72321007,QR 407 Conjunto 7
+1382,Casas,2,72161202,QNL 22 Conjunto B
+1383,Casas,1,72311808,QR 505 Conjunto 7
+1384,Apartamentos,1,72309300,QR 321
+1385,Apartamentos,1,72321000,QR 407
+1386,Apartamentos,1,72321012,QR 407 Conjunto 12
+1387,Apartamentos,1,72321008,QR 407 Conjunto 8
+1388,Apartamentos,1,72322509,QS 602 Conjunto I Comércio
+1389,Apartamentos,1,72309201,QN 321 Conjunto A
+1390,,,,
+1391,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1392,Casas,1,72339118,QR 827 Conjunto 3
+1393,Apartamentos,1,72321002,QR 407 Conjunto 2
+1394,Apartamentos,1,72321000,QR 407
+1395,,,,
+1396,Apartamentos,2,72345104,QR 221 Conjunto 4
+1397,Casas,2,72327000,QR 425
+1398,Apartamentos,1,72318309,QR 408 Conjunto 9
+1399,,,,
+1400,Casas,3,72321300,QR 413
+1401,Apartamentos,1,72329550,QS 431
+1402,Casas,1,72322201,QR 606 Conjunto 1
+1403,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1404,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1405,Apartamentos,2,72300501,Quadra 101 Conjunto 1
+1406,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+1407,Casas,1,72338713,QR 831 Conjunto 3
+1408,Apartamentos,1,72318586,QN 408 Conjunto F Comércio
+1409,Casas,1,72315116,QR 515 Conjunto 16
+1410,Apartamentos,1,72320326,QI 416 Conjunto P
+1411,Apartamentos,1,72309300,QR 321
+1412,Apartamentos,1,72321000,QR 407
+1413,Casas,3,72302650,QN 114
+1414,Casas,2,72319000,QR 401
+1415,,,,
+1416,Casas,1,72306502,QS 304 Conjunto 2 Comércio
+1417,Apartamentos,1,72310001,QN 320 Conjunto 1
+1418,Apartamentos,1,72321012,QR 407 Conjunto 12
+1419,Apartamentos,1,72306004,QN 304 Conjunto 4
+1420,Apartamentos,1,72309300,QR 321
+1421,,,,
+1422,Apartamentos,1,72321530,QS 409
+1423,Casas,2,72345105,QR 221 Conjunto 5
+1424,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+1425,Apartamentos,1,72321007,QR 407 Conjunto 7
+1426,Apartamentos,1,72309300,QR 321
+1427,Casas,2,72343101,QR 213 Conjunto 1
+1428,,,,
+1429,Apartamentos,1,72343003,QR 211 Conjunto 3
+1430,Casas,4,72310200,Setor de Mansões Sudeste
+1431,Casas,3,72327110,QR 427 Conjunto 10
+1432,Casas,2,72325120,QR 421 Conjunto 17
+1433,Casas,2,72331011,QR 601 Conjunto 11
+1434,,,,
+1435,Apartamentos,1,72319000,
+1436,Apartamentos,1,72321001,QR 407 Conjunto 1
+1437,,,,
+1438,Casas,5 ou mais,72300653,Quadra 302 Conjunto 12
+1439,Casas,1,72321001,QR 407 Conjunto 1
+1440,,,,
+1441,Apartamentos,1,72321000,
+1442,Apartamentos,1,72319524,QS 401 Conjunto D Comércio
+1443,,,,
+1444,Apartamentos,1,72310000,QN 320
+1445,Apartamentos,1,72321000,QR 407
+1446,,,,
+1447,,,,
+1448,,,,
+1449,Apartamentos,1,72325550,QS 421
+1450,Apartamentos,1,72309300,QR 321
+1451,,,,
+1452,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+1453,,,,
+1454,Apartamentos,2,72305400,QN 307
+1455,,,,
+1456,Apartamentos,2,72305401,QN 307 Conjunto 1
+1457,Apartamentos,1,72314530,QS 518
+1458,,,,
+1459,,,,
+1460,Casas,2,72322204,QR 606 Conjunto 4
+1461,Apartamentos,1,72311702,QN 505 Conjunto 2
+1462,Casas,1,72325200,QR 423
+1463,,,,
+1464,Apartamentos,1,72300601,Quadra 102 Conjunto 1
+1465,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+1466,Casas,3,72323108,QR 417 Conjunto 8
+1467,,,,
+1468,,,,
+1469,Apartamentos,1,72310000,QN 320
+1470,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1471,,,,
+1472,,,,
+1473,Apartamentos,1,72309300,QR 321
+1474,Apartamentos,1,72321000,QR 407
+1475,Apartamentos,1,72321000,QR 407
+1476,Apartamentos,1,72321000,QR 407
+1477,Casas,3,72320108,QR 412 Conjunto 7
+1478,,,,
+1479,,,,
+1480,Apartamentos,1,72318317,QR 408 Conjunto 15-A
+1481,Apartamentos,1,72322570,QN 614
+1482,Casas,1,72325210,QR 423 Conjunto 9
+1483,Apartamentos,1,72310000,QN 320
+1484,Apartamentos,2,72306408,QN 308 Conjunto 8
+1485,Apartamentos,1,72321000,QR 407
+1486,Casas,1,72312109,QR 506 Conjunto 9
+1487,,,,
+1488,,,,
+1489,,,,
+1490,Apartamentos,1,72314405,QR 518 Conjunto 3-A
+1491,,,,
+1492,,,,
+1493,,,,
+1494,,,,
+1495,,,,
+1496,Apartamentos,1,72321000,QR 407
+1497,,,,
+1498,,,,
+1499,Apartamentos,1,72321000,QR 407
+1500,,,,
+1501,,,,
+1502,Apartamentos,1,72321002,QR 407 Conjunto 2
+1503,,,,
+1504,,,,
+1505,,,,
+1506,,,,
+1507,Apartamentos,1,72305205,QN 305 Conjunto 5
+1508,Apartamentos,1,72321000,QR 407
+1509,Casas,1,72345104,QR 221 Conjunto 4
+1510,,,,
+1511,,,,
+1512,,,,
+1513,,,,
+1514,,,,
+1515,,,,
+1516,,,,
+1517,,,,
+1518,,,,
+1519,,,,
+1520,,,,
+1521,Casas,3,72308800,QR 318
+1522,,,,
+1523,Apartamentos,1,72302803,QR 118 Conjunto 3
+1524,Apartamentos,1,72300635,
+1525,Apartamentos,1,72309300,QR 321
+1526,Casas,2,72322204,QR 606 Conjunto 4
+1527,Apartamentos,2,72304020,QR 120 Conjunto 10A
+1528,Apartamentos,2,72304052,QN 120 Conjunto 2
+1529,Apartamentos,1,72309300,QR 321
+1530,Apartamentos,1,72309300,QR 321
+1531,,,,
+1532,,,,
+1533,,,,
+1534,Apartamentos,1,72309300,QR 321
+1535,,,,
+1536,,,,
+1537,Apartamentos,1,72320546,QN 412 Conjunto F Comércio
+1538,Apartamentos,,72316108,QR 208 Conjunto 7-A
+1539,,,,
+1540,,,,
+1541,,,,
+1542,,,,
+1543,,,,
+1544,,,,
+1545,,,,
+1546,,,,
+1547,,,,
+1548,,,,
+1549,,,,
+1550,Casas,2,72316200,QR 210
+1551,Apartamentos,1,72310000,QN 320
+1552,Apartamentos,1,72319527,QS 401 Conjunto G Comércio
+1553,Apartamentos,1,72304502,QS 120 Conjunto 2
+1554,Apartamentos,2,72304006,QR 120 Conjunto 6
+1555,Apartamentos,1,72302522,QS 108 Conjunto 2 Comércio
+1556,,,,
+1557,,,,
+1558,,,,
+1559,,,,
+1560,,,,
+1561,,,,
+1562,,,,
+1563,,,,
+1564,,,,
+1565,,,,
+1566,,,,
+1567,Apartamentos,2,72306408,QN 308 Conjunto 8
+1568,Apartamentos,,72318504,QN 402 Conjunto D Comércio
+1569,,,,
+1570,,,,
+1571,Apartamentos,1,72322500,QS 602
+1572,,,,
+1573,,,,
+1574,Apartamentos,1,72306408,QN 308 Conjunto 8
+1575,Apartamentos,1,72309300,QR 321
+1576,,,,
+1577,,,,
+1578,Apartamentos,1,72310000,QN 320
+1579,Apartamentos,1,72309300,QR 321
+1580,Casas,4,72321002,QR 407 Conjunto 2
+1581,Apartamentos,1,72308525,QS 316 Conjunto 5 Comércio
+1582,Apartamentos,1,72318327,QR 408 Conjunto 24-A
+1583,Apartamentos,1,72302151,QN 106 Conjunto 1
+1584,Casas,2,72311802,QR 505 Conjunto 2
+1585,Apartamentos,1,72325550,QS 421
+1586,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+1587,Apartamentos,1,72316020,QR 206 Conjunto 20
+1588,,,,
+1589,Casas,2,72329554,QS 431 Conjunto D Comércio
+1590,,,,
+1591,Apartamentos,1,72320124,QR 412 Conjunto 21
+1592,,,,
+1593,,,,
+1594,,,,
+1595,,,,
+1596,,,,
+1597,,,,
+1598,Casas,1,72302409,QR 112 Conjunto 8
+1599,,,,
+1600,,,,
+1601,Casas,2,72316059,QR 202 Conjunto 9
+1602,Casas,1,72307607,QR 315 Conjunto 7
+1603,Apartamentos,2,72311500,QS 501
+1604,Casas,2,72322400,QR 610
+1605,Apartamentos,2,72300545,Quadra 301 Conjunto 8
+1606,,,,
+1607,Apartamentos,1,72318500,QN 402
+1608,Apartamentos,1,72305500,QS 303
+1609,Casas,3,72316027,QR 206 Conjunto 27
+1610,Apartamentos,1,72305501,QS 303 Conjunto 1 Comércio
+1611,Casas,3,72316027,QR 206 Conjunto 27
+1612,Casas,2,72303201,QR 127 Conjunto 1
+1613,Apartamentos,2,72320326,QI 416 Conjunto P
+1614,Apartamentos,2,72310509,QS 320 Conjunto 9 Comércio
+1615,Apartamentos,1,72310004,QN 320 Conjunto 4
+1616,Apartamentos,1,72300533,Quadra 301 Conjunto 2
+1617,Apartamentos,2,72320300,QI 416
+1618,Apartamentos,2,72310500,QS 320
+1619,,,,
+1620,,,,
+1621,,,,
+1622,,,,
+1623,Casas,2,72315107,QR 515 Conjunto 7
+1624,Apartamentos,1,72300530,Quadra 301
+1625,,,,
+1626,,,,
+1627,,,,
+1628,,,,
+1629,,,,
+1630,Apartamentos,1,72315581,QS 519 Conjunto A Comércio
+1631,Apartamentos,2,72320301,QI 416 Conjunto 1
+1632,Apartamentos,1,72308105,QR 312 Conjunto 4-A
+1633,Apartamentos,0,72300531,Quadra 301 Conjunto 1
+1634,Casas,1,72308105,QR 312 Conjunto 4-A
+1635,Apartamentos,2,72304020,QR 120 Conjunto 10A
+1636,Apartamentos,1,72305506,QS 303 Conjunto 6 Comércio
+1637,Casas,2,72320000,QR 410
+1638,Apartamentos,2,72316042,Quadra 202 Conjunto 2
+1639,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1640,Casas,4,72315001,QR 513 Conjunto 1
+1641,Apartamentos,1,72302513,QS 106 Conjunto 3 Comércio
+1642,Casas,3,72316002,QR 206 Conjunto 2
+1643,Apartamentos,1,72320302,QI 416 Conjunto 2
+1644,Casas,2,72304001,QR 120 Conjunto 1
+1645,Casas,2,72320016,QR 410 Conjunto 14
+1646,Casas,1,72309300,QR 321
+1647,Casas,2,72329021,QR 429 Conjunto 21
+1648,Apartamentos,1,72315581,QS 519 Conjunto A Comércio
+1649,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1650,Casas,3,72316300,QR 212
+1651,Apartamentos,1,72303508,QS 123 Conjunto H
+1652,Casas,2,72318000,QR 402
+1653,Casas,1,72304200,QR 122
+1654,Casas,2,72302408,
+1655,Apartamentos,2,72300505,Quadra 101 Conjunto 3
+1656,Apartamentos,2,72320302,QI 416 Conjunto 2
+1657,Apartamentos,1,72302206,QR 108 Conjunto 6
+1658,Apartamentos,1,72318581,QN 408 Conjunto A Comércio
+1659,Apartamentos,1,72318580,QN 408
+1660,Casas,1,72307310,QR 313 Conjunto 10
+1661,Apartamentos,1,72305503,QS 303 Conjunto 3 Comércio
+1662,Apartamentos,1,72313004,QN 507 Conjunto 4
+1663,Apartamentos,1,72327100,QR 427
+1664,Casas,1,72318000,QR 402
+1665,Casas,1,72301604,QR 113 Conjunto 4
+1666,Apartamentos,1,72308000,QN 312
+1667,Casas,1,72319000,QR 401
+1668,Apartamentos,2,72300505,Quadra 101 Conjunto 3
+1669,Apartamentos,,72316200,QR 210
+1670,Apartamentos,1,72305530,QS 309
+1671,Casas,2,72318000,QR 402
+1672,Casas,1,72318111,QR 404 Conjunto 10
+1673,Casas,1,72319000,QR 401
+1674,Casas,4,72315500,QN 513
+1675,Apartamentos,1,72300530,Quadra 301
+1676,Apartamentos,1,72302700,QR 116
+1677,Casas,2,72305600,QR 307
+1678,Casas,2,72341207,QR 205 Conjunto 7
+1679,Casas,2,72318104,QR 404 Conjunto 4
+1680,Apartamentos,1,72318590,QS 408
+1681,Casas,1,72318113,QR 404 Conjunto 12
+1682,Apartamentos,1,72325217,QR 423 Conjunto 15
+1683,Apartamentos,2,72320100,QR 412
+1684,Casas,2,72329120,QR 431 Conjunto 18
+1685,Apartamentos,2,72305111,QR 303 Conjunto 10-A
+1686,Apartamentos,1,72341104,QR 203 Conjunto 4
+1687,Casas,2,72318219,QR 406 Conjunto 18
+1688,Casas,4,72304200,QR 122
+1689,Apartamentos,2,72318327,QR 408 Conjunto 24-A
+1690,Casas,1,72339126,QR 827 Conjunto 11
+1691,Casas,2,72331150,QR 603 Chácara 39 Condomínio Vida Nova
+1692,Apartamentos,2,72300507,Quadra 101 Conjunto 4
+1693,Apartamentos,2,72300603,Quadra 102 Conjunto 2
+1694,Casas,1,72305312,QR 305 Conjunto 11
+1695,Casas,2,72341205,QR 205 Conjunto 5
+1696,Casas,1,72329204,QR 433 Conjunto 3
+1697,Casas,2,72323015,QR 415 Conjunto 15
+1698,Apartamentos,2,72322570,QN 614
+1699,Casas,2,72321203,QR 411 Conjunto 3
+1700,Casas,1,72318206,QR 406 Conjunto 6
+1701,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+1702,Casas,1,72327550,QS 427
+1703,Apartamentos,2,72318577,QS 406 Conjunto G Comércio
+1704,Apartamentos,2,72300505,Quadra 101 Conjunto 3
+1705,Apartamentos,2,72310309,QN 502 Conjunto 9
+1706,Apartamentos,2,72318404,
+1707,Casas,1,72327001,QR 425 Conjunto 1
+1708,Apartamentos,1,72318570,QS 406
+1709,Casas,2,72341010,EQ 201/401
+1710,Apartamentos,1,72320018,QR 410 Conjunto 15-A
+1711,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+1712,Casas,3,72309600,QR 323
+1713,Casas,2,72321102,QR 409 Conjunto 2
+1714,Apartamentos,1,72321510,QS 407
+1715,Apartamentos,2,72331509,QS 601 Conjunto I Comércio
+1716,Casas,1,72315300,QR 519
+1717,,,,
+1718,,,,
+1719,,,,
+1720,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+1721,,,,
+1722,Apartamentos,1,72318200,QR 406
+1723,,,,
+1724,,,,
+1725,Casas,3,72316100,QR 208
+1726,,,,
+1727,Casas,2,72314300,QR 516
+1728,Casas,3,72310400,QR 502
+1729,Casas,2,72312800,QR 512
+1730,Casas,4,72327102,QR 427 Conjunto 2
+1731,Casas,2,72318024,QR 402 Conjunto 23
+1732,Casas,2,72341101,QR 203 Conjunto 1
+1733,Casas,4,72315114,QR 515 Conjunto 14
+1734,Casas,5 ou mais,72325100,QR 421
+1735,Casas,1,72318206,QR 406 Conjunto 6
+1736,Casas,1,72331800,QR 615
+1737,Casas,2,72318011,QR 402 Conjunto 11
+1738,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1739,Apartamentos,1,72302548,QS 112 Conjunto 8 Comércio
+1740,Apartamentos,1,72320114,QR 412 Conjunto 12-A
+1741,Casas,2,72341101,QR 203 Conjunto 1
+1742,Casas,2,72329201,QR 433 Conjunto 1
+1743,Casas,3,72302400,QR 112
+1744,Casas,1,72325580,QS 423
+1745,,,,
+1746,Casas,3,72319000,QR 401
+1747,Apartamentos,1,72322570,QN 614
+1748,Apartamentos,1,72313000,QN 507
+1749,Apartamentos,1,72310501,QS 320 Conjunto 1 Comércio
+1750,Apartamentos,1,72304051,QN 120 Conjunto 1
+1751,Apartamentos,1,72318580,QN 408
+1752,Apartamentos,1,72308007,QN 312 Conjunto 7
+1753,Casas,2,72341110,QR 203 Conjunto 10
+1754,Casas,2,72331600,
+1755,Apartamentos,1,72321556,QS 411 Conjunto F
+1756,Apartamentos,1,72341304,QR 207 Conjunto 4
+1757,Casas,3,72312803,QR 512 Conjunto 3
+1758,Casas,3,72312803,QR 512 Conjunto 3
+1759,Apartamentos,2,72320320,QI 416 Conjunto J
+1760,,,,
+1761,Casas,1,72313713,QR 511 Conjunto 13
+1762,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+1763,Apartamentos,2,72322572,QN 614 Conjunto B
+1764,Apartamentos,1,72321000,QR 407
+1765,Apartamentos,2,72318327,QR 408 Conjunto 24-A
+1766,Casas,4,72320123,QR 412 Conjunto 20
+1767,Casas,2,72331100,QR 603
+1768,Casas,1,72327020,QR 425 Conjunto 20
+1769,Casas,2,72314320,QR 516 Conjunto 17
+1770,Casas,4,72325520,QS 419
+1771,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+1772,Apartamentos,1,72318503,QN 402 Conjunto C Comércio
+1773,Apartamentos,1,72305800,QR 309
+1774,Casas,5 ou mais,72314100,QR 514
+1775,Casas,3,72305600,QR 307
+1776,Casas,2,72314307,
+1777,Casas,2,72310700,QR 504
+1778,Casas,2,72319200,QR 405
+1779,Casas,2,72319010,QR 401 Conjunto 10
+1780,Apartamentos,2,72301560,QS 113
+1781,Casas,3,72331100,QR 603
+1782,Casas,1,72307306,QR 313 Conjunto 6
+1783,Apartamentos,1,72311300,QR 501
+1784,Casas,3,72341103,QR 203 Conjunto 3
+1785,Apartamentos,2,72320528,QS 410 Conjunto H Comércio
+1786,Apartamentos,1,72319100,QR 403
+1787,Apartamentos,1,72321556,QS 411 Conjunto F
+1788,Apartamentos,1,72305502,QS 303 Conjunto 2 Comércio
+1789,Apartamentos,1,72308100,QR 312
+1790,Apartamentos,1,72321006,QR 407 Conjunto 6
+1791,Apartamentos,1,72321007,QR 407 Conjunto 7
+1792,Casas,1,72322500,QS 602
+1793,Casas,1,72304104,QN 122 Conjunto 4
+1794,Casas,3,72321316,QR 413 Conjunto 13-A
+1795,Apartamentos,1,72304052,QN 120 Conjunto 2
+1796,Casas,2,72320000,QR 410
+1797,Casas,4,72341100,QR 203
+1798,Apartamentos,1,72321003,QR 407 Conjunto 3
+1799,Apartamentos,2,72320302,QI 416 Conjunto 2
+1800,Apartamentos,1,72309303,QR 321 Conjunto 3
+1801,Apartamentos,2,72325580,QS 423
+1802,Casas,1,72400000,
+1803,Apartamentos,1,72318230,QR 406 Conjunto 28
+1804,Casas,2,72302013,QR 104 Conjunto 12
+1805,Apartamentos,1,72321012,QR 407 Conjunto 12
+1806,Apartamentos,1,72309303,QR 321 Conjunto 3
+1807,Apartamentos,1,72321009,QR 407 Conjunto 9
+1808,Casas,2,72322607,QR 612 Conjunto 7
+1809,,,,
+1810,Apartamentos,1,72325550,QS 421
+1811,,,,
+1812,,,,
+1813,Apartamentos,1,72341104,QR 203 Conjunto 4
+1814,Apartamentos,2,72320101,QR 412 Conjunto 1
+1815,,,,
+1816,,,,
+1817,,,,
+1818,,,,
+1819,,,,
+1820,,,,
+1821,,,,
+1822,,,,
+1823,,,,
+1824,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1825,,,,
+1826,Apartamentos,1,72321008,QR 407 Conjunto 8
+1827,Apartamentos,1,72321000,QR 407
+1828,,,,
+1829,,,,
+1830,Casas,0,72311310,QR 501 Conjunto 10
+1831,,,,
+1832,Apartamentos,1,72302851,QN 118 Conjunto 1
+1833,,,,
+1834,Apartamentos,1,72321004,QR 407 Conjunto 4
+1835,Apartamentos,1,72305000,QN 303
+1836,Apartamentos,2,72316042,Quadra 202 Conjunto 2
+1837,Casas,2,72331808,QR 615 Conjunto 7
+1838,Casas,2,72308605,QR 316 Conjunto 5
+1839,Casas,2,72318024,QR 402 Conjunto 23
+1840,Apartamentos,1,72327521,QS 425 Conjunto A Comércio
+1841,Casas,2,72316081,QR 204 Conjunto 1
+1842,Casas,1,72320000,QR 410
+1843,Casas,2,72329200,QR 433
+1844,Apartamentos,1,72309303,QR 321 Conjunto 3
+1845,Apartamentos,1,72309303,QR 321 Conjunto 3
+1846,Apartamentos,1,72310000,QN 320
+1847,Apartamentos,1,72304051,QN 120 Conjunto 1
+1848,Apartamentos,2,72305506,QS 303 Conjunto 6 Comércio
+1849,Apartamentos,2,72302116,QR 106 Conjunto 15-A
+1850,Casas,2,72316000,QR 206
+1851,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+1852,Casas,1,72329100,QR 431
+1853,Apartamentos,1,72309309,QR 321 Conjunto 9
+1854,Casas,4,72322002,QR 602 Conjunto 2
+1855,Casas,3,72307310,QR 313 Conjunto 10
+1856,Apartamentos,2,72302052,
+1857,Apartamentos,1,72309302,QR 321 Conjunto 2
+1858,Apartamentos,1,72321005,QR 407 Conjunto 5
+1859,Casas,2,72320523,QS 410 Conjunto C Comércio
+1860,Apartamentos,1,72300530,Quadra 301
+1861,Apartamentos,1,72320000,QR 410
+1862,Casas,1,72313107,QR 507 Conjunto 7
+1863,Apartamentos,3,72320540,QN 412
+1864,Casas,1,72307600,QR 315
+1865,Apartamentos,1,72310711,QR 504 Conjunto 8
+1866,Apartamentos,1,72316510,QN 208
+1867,Apartamentos,1,72300530,Quadra 301
+1868,Casas,3,72321200,QR 411
+1869,Apartamentos,2,72302052,QN 104 Conjunto 2
+1870,,,,
+1871,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1872,Apartamentos,1,72300545,Quadra 301 Conjunto 8
+1873,Casas,3,72308800,QR 318
+1874,Casas,2,72320000,QR 410
+1875,Apartamentos,2,72316320,
+1876,,,,
+1877,Casas,1,72314309,QR 516 Conjunto 9
+1878,Casas,1,72318000,QR 402
+1879,Casas,1,72380000,
+1880,Apartamentos,1,72321000,QR 407
+1881,Apartamentos,1,72321009,QR 407 Conjunto 9
+1882,Casas,3,72321204,QR 411 Conjunto 4
+1883,Casas,2,72322206,QR 606 Conjunto 6
+1884,Casas,1,72327550,QS 427
+1885,,,,
+1886,,,,
+1887,Casas,2,72301207,QR 107 Conjunto 7
+1888,Apartamentos,2,72320540,QN 412
+1889,Casas,2,72331802,QR 615 Conjunto 2
+1890,Casas,3,72335204,QR 633 Conjunto 2-B
+1891,Apartamentos,2,72300499,Quadra 101
+1892,Apartamentos,1,72309300,QR 321
+1893,Casas,1,72320000,QR 410
+1894,Casas,1,72302701,QR 116 Conjunto 1 Comércio
+1895,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+1896,Apartamentos,1,72310000,QN 320
+1897,Apartamentos,1,72305207,QN 305 Conjunto 7
+1898,Apartamentos,1,72331000,QR 601
+1899,Casas,1,72312300,QR 508
+1900,Casas,2,72322211,QR 606 Conjunto 10
+1901,Casas,2,72323105,QR 417 Conjunto 5
+1902,Casas,2,72319000,QR 401
+1903,Apartamentos,1,72321000,QR 407
+1904,Apartamentos,1,72321502,QN 407 Conjunto B Comércio
+1905,Apartamentos,1,72321001,QR 407 Conjunto 1
+1906,Apartamentos,1,72321000,QR 407
+1907,Apartamentos,1,72321000,QR 407
+1908,,,,
+1909,Apartamentos,1,72321006,QR 407 Conjunto 6
+1910,Apartamentos,1,72321006,QR 407 Conjunto 6
+1911,Apartamentos,1,72321006,QR 407 Conjunto 6
+1912,Apartamentos,1,72319524,QS 401 Conjunto D Comércio
+1913,Apartamentos,1,72321000,QR 407
+1914,Apartamentos,1,72321000,QR 407
+1915,,,,
+1916,Apartamentos,1,72321000,QR 407
+1917,Apartamentos,1,72315553,QS 517 Conjunto C Comércio
+1918,,,,
+1919,,,,
+1920,,,,
+1921,,,,
+1922,,,,
+1923,Apartamentos,1,72321005,QR 407 Conjunto 5
+1924,Apartamentos,2,72300630,Quadra 302
+1925,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1926,,,,
+1927,,,,
+1928,Casas,3,72308800,QR 318
+1929,Casas,2,72341102,QR 203 Conjunto 2
+1930,Casas,1,72314100,QR 514
+1931,Casas,2,72322201,QR 606 Conjunto 1
+1932,Casas,1,72322201,QR 606 Conjunto 1
+1933,Casas,1,72315100,QR 515
+1934,Apartamentos,2,72322300,QR 608
+1935,Casas,2,72316095,QR 204 Conjunto 15
+1936,Apartamentos,1,72321008,QR 407 Conjunto 8
+1937,Apartamentos,1,72316000,QR 206
+1938,,,,
+1939,Casas,1,72303006,QR 123 Conjunto 6
+1940,Apartamentos,1,72321005,QR 407 Conjunto 5
+1941,Apartamentos,1,72321007,QR 407 Conjunto 7
+1942,Casas,4,72316012,QR 206 Conjunto 12
+1943,Casas,2,72343203,QR 215 Conjunto 3
+1944,Casas,1,72327550,QS 427
+1945,Casas,1,72307804,QR 317 Conjunto 4
+1946,Casas,2,72325101,QR 421 Conjunto 1
+1947,Apartamentos,1,72308100,QR 312
+1948,Apartamentos,1,72321008,QR 407 Conjunto 8
+1949,Casas,3,72302052,QN 104 Conjunto 2
+1950,Apartamentos,1,72321000,QR 407
+1951,Casas,1,72302850,QN 118
+1952,Apartamentos,1,72329550,QS 431
+1953,Apartamentos,2,72300533,Quadra 301 Conjunto 2
+1954,Apartamentos,1,72321000,QR 407
+1955,,,,
+1956,Casas,3,72335100,QR 631
+1957,Casas,2,72321305,QR 413 Conjunto 5
+1958,Casas,2,72315212,QR 517 Conjunto 12
+1959,Casas,2,72312304,QR 508 Conjunto 3-A
+1960,Apartamentos,1,72309300,QR 321
+1961,Apartamentos,1,72309305,QR 321 Conjunto 5
+1962,Apartamentos,1,72308005,QN 312 Conjunto 5
+1963,Casas,4,72306600,QR 308
+1964,Casas,1,72327008,QR 425 Conjunto 8
+1965,Apartamentos,1,72321004,QR 407 Conjunto 4
+1966,,,,
+1967,Casas,1,72306700,QN 310
+1968,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1969,Apartamentos,1,72305200,QN 305
+1970,Apartamentos,1,72310501,QS 320 Conjunto 1 Comércio
+1971,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+1972,Casas,2,72319000,QR 401
+1973,Apartamentos,1,72308005,QN 312 Conjunto 5
+1974,Apartamentos,1,72321007,QR 407 Conjunto 7
+1975,Casas,1,72323100,QR 417
+1976,Casas,1,72318000,QR 402
+1977,Apartamentos,1,72321000,QR 407
+1978,Apartamentos,1,72309302,QR 321 Conjunto 2
+1979,,,,
+1980,Apartamentos,1,72309300,QR 321
+1981,Apartamentos,1,72321002,QR 407 Conjunto 2
+1982,Apartamentos,1,72321000,QR 407
+1983,Apartamentos,1,72318570,QS 406
+1984,Apartamentos,1,72310000,QN 320
+1985,Apartamentos,1,72319500,QN 401
+1986,Casas,1,72315116,QR 515 Conjunto 16
+1987,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+1988,Apartamentos,2,72318504,QN 402 Conjunto D Comércio
+1989,Apartamentos,1,72318526,QS 402 Conjunto F Comércio
+1990,Apartamentos,1,72321000,QR 407
+1991,,,,
+1992,Apartamentos,2,72318300,QR 408
+1993,Apartamentos,1,72321008,QR 407 Conjunto 8
+1994,Casas,1,72318031,QR 402 Conjunto 30
+1995,Apartamentos,1,72304001,QR 120 Conjunto 1
+1996,Apartamentos,1,72321000,QR 407
+1997,Apartamentos,1,72321000,QR 407
+1998,Casas,2,72323105,QR 417 Conjunto 5
+1999,Casas,1,72320000,QR 410
+2000,Casas,4,72310109,QR 320 Conjunto 9
+2001,Apartamentos,1,72304019,QR 120 Conjunto 6A
+2002,Casas,1,72321303,QR 413 Conjunto 3
+2003,Apartamentos,1,72310303,QN 502 Conjunto 3
+2004,Apartamentos,1,72310000,QN 320
+2005,Apartamentos,1,72310527,QS 502 Conjunto 7 Comércio
+2006,Apartamentos,1,72321006,QR 407 Conjunto 6
+2007,Casas,4,72307308,QR 313 Conjunto 8
+2008,Casas,1,72312309,QR 508 Conjunto 7
+2009,Casas,0,72320546,QN 412 Conjunto F Comércio
+2010,,,,
+2011,Apartamentos,1,72309306,QR 321 Conjunto 6
+2012,Apartamentos,1,72310000,QN 320
+2013,Apartamentos,1,72321000,QR 407
+2014,Apartamentos,1,72307303,QR 313 Conjunto 3
+2015,Apartamentos,1,72321000,QR 407
+2016,Apartamentos,1,72321007,QR 407 Conjunto 7
+2017,Apartamentos,1,72305503,QS 303 Conjunto 3 Comércio
+2018,Apartamentos,2,72325580,QS 423
+2019,Apartamentos,1,72321000,QR 407
+2020,Casas,1,72310101,QR 320 Conjunto 1
+2021,Apartamentos,1,72321003,QR 407 Conjunto 3
+2022,Casas,3,72345150,QN 221
+2023,Casas,2,72316051,QR 202 Conjunto 1
+2024,Casas,1,72320000,QR 410
+2025,Apartamentos,1,72321007,QR 407 Conjunto 7
+2026,Casas,1,72302850,QN 118
+2027,,,,
+2028,Apartamentos,1,72321012,QR 407 Conjunto 12
+2029,Apartamentos,1,72321006,QR 407 Conjunto 6
+2030,Casas,3,72312108,QR 506 Conjunto 8
+2031,Apartamentos,1,72305101,QR 303 Conjunto 1
+2032,Casas,2,72316080,QR 204
+2033,Casas,2,72316081,QR 204 Conjunto 1
+2034,Casas,3,72320124,QR 412 Conjunto 21
+2035,Casas,1,72311102,QR 327 Conjunto 2
+2036,,,,
+2037,Apartamentos,1,72321009,QR 407 Conjunto 9
+2038,Apartamentos,3,72325580,QS 423
+2039,Casas,1,72321103,QR 409 Conjunto 3
+2040,Apartamentos,1,72321000,QR 407
+2041,Casas,2,72314101,QR 514 Conjunto 1
+2042,Apartamentos,1,72309301,QR 321 Conjunto 1
+2043,Apartamentos,2,72300503,Quadra 101 Conjunto 2
+2044,Casas,3,72316200,QR 210
+2045,Apartamentos,1,72310309,QN 502 Conjunto 9
+2046,Casas,3,72325005,QR 419 Conjunto 4
+2047,Apartamentos,1,72321007,QR 407 Conjunto 7
+2048,Apartamentos,1,72321007,QR 407 Conjunto 7
+2049,,,,
+2050,Apartamentos,1,72321000,QR 407
+2051,Casas,3,72318318,QR 408 Conjunto 16
+2052,Apartamentos,1,72300507,Quadra 101 Conjunto 4
+2053,,,,
+2054,Casas,2,72325200,QR 423
+2055,Apartamentos,1,72310000,QN 320
+2056,Casas,2,72320200,QR 414
+2057,Casas,2,72323101,QR 417 Conjunto 1
+2058,Apartamentos,2,72320540,QN 412
+2059,Apartamentos,1,72310000,QN 320
+2060,Apartamentos,2,72319500,QN 401
+2061,Apartamentos,1,72321005,QR 407 Conjunto 5
+2062,,,,
+2063,Casas,1,72319102,QR 403 Conjunto 2
+2064,Apartamentos,1,72321012,QR 407 Conjunto 12
+2065,Apartamentos,1,72321000,QR 407
+2066,Apartamentos,1,72310000,QN 320
+2067,Apartamentos,1,72310000,QN 320
+2068,Apartamentos,1,72321000,QR 407
+2069,Casas,1,72341400,QR 209
+2070,Casas,3,72333301,QR 623 Conjunto 1
+2071,Apartamentos,1,72325550,QS 421
+2072,,,,
+2073,Casas,2,72311300,QR 501
+2074,Casas,1,72338714,QR 831 Conjunto 4
+2075,Apartamentos,2,72320540,QN 412
+2076,,,,
+2077,Apartamentos,1,72325560,QN 423
+2078,Apartamentos,1,72321000,QR 407
+2079,,,,
+2080,Casas,5 ou mais,72339120,QR 827 Conjunto 5
+2081,Apartamentos,1,72302804,QR 118 Conjunto 3-A
+2082,Casas,1,72307600,QR 315
+2083,Casas,2,72308809,QR 318 Conjunto 8
+2084,Apartamentos,1,72321000,QR 407
+2085,Apartamentos,1,72309306,QR 321 Conjunto 6
+2086,Apartamentos,1,72320007,QR 410 Conjunto 6
+2087,,,,
+2088,Casas,1,72318203,QR 406 Conjunto 3
+2089,Apartamentos,1,72321006,QR 407 Conjunto 6
+2090,Apartamentos,1,72309300,QR 321
+2091,Apartamentos,1,72309306,QR 321 Conjunto 6
+2092,Apartamentos,1,72309301,QR 321 Conjunto 1
+2093,Casas,1,72331000,QR 601
+2094,Apartamentos,1,72321006,QR 407 Conjunto 6
+2095,Apartamentos,1,72309300,QR 321
+2096,,,,
+2097,Apartamentos,1,72321009,QR 407 Conjunto 9
+2098,Apartamentos,1,72321007,QR 407 Conjunto 7
+2099,Apartamentos,1,72321000,QR 407
+2100,Apartamentos,1,72321000,QR 407
+2101,Casas,,72319540,QN 403
+2102,Apartamentos,1,72310000,QN 320
+2103,Apartamentos,1,72321000,QR 407
+2104,Apartamentos,1,72318571,QS 406 Conjunto A Comércio
+2105,Casas,5 ou mais,72317800,Rodovia BR-060
+2106,,,,
+2107,Casas,2,72300533,Quadra 301 Conjunto 2
+2108,,,,
+2109,Casas,2,72303100,QR 125
+2110,Apartamentos,1,72321100,QR 409
+2111,,,,
+2112,,,,
+2113,Apartamentos,1,72302510,QS 106
+2114,Casas,4,72318118,QR 404 Conjunto 16
+2115,Apartamentos,1,72309301,QR 321 Conjunto 1
+2116,Apartamentos,1,72310000,QN 320
+2117,Casas,1,72333100,QR 619
+2118,Casas,3,72325102,QR 421 Conjunto 2
+2119,Apartamentos,2,72316200,QR 210
+2120,Apartamentos,2,72318580,QN 408
+2121,Casas,1,72339007,QR 1029 Conjunto 7
+2122,Casas,1,72306408,QN 308 Conjunto 8
+2123,,,,
+2124,Casas,1,72329200,QR 433
+2125,Casas,1,72318029,QR 402 Conjunto 28
+2126,Apartamentos,1,72309302,QR 321 Conjunto 2
+2127,Apartamentos,1,72309300,QR 321
+2128,Apartamentos,1,72321000,QR 407
+2129,Casas,5 ou mais,72317800,Rodovia BR-060
+2130,Apartamentos,2,72300543,Quadra 301 Conjunto 7
+2131,Apartamentos,1,72318314,QR 408 Conjunto 13
+2132,Apartamentos,1,72300635,Quadra 302 Conjunto 3
+2133,Apartamentos,1,72319200,QR 405
+2134,Apartamentos,1,72319540,QN 403
+2135,Apartamentos,1,72300543,Quadra 301 Conjunto 7
+2136,Apartamentos,1,72321000,QR 407
+2137,Apartamentos,1,72310000,QN 320
+2138,Apartamentos,1,72321012,QR 407 Conjunto 12
+2139,Apartamentos,1,72321000,QR 407
+2140,,,,
+2141,Casas,2,72319000,QR 401
+2142,Casas,1,72329100,QR 431
+2143,Apartamentos,1,72320300,QI 416
+2144,Apartamentos,1,72311803,QR 505 Conjunto 3
+2145,Apartamentos,1,72309303,QR 321 Conjunto 3
+2146,Apartamentos,1,72321008,QR 407 Conjunto 8
+2147,Apartamentos,1,72321000,QR 407
+2148,Apartamentos,1,72321000,QR 407
+2149,Apartamentos,1,72300530,Quadra 301
+2150,Casas,2,72322211,QR 606 Conjunto 10
+2151,Apartamentos,1,72320000,QR 410
+2152,Apartamentos,1,72321003,QR 407 Conjunto 3
+2153,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2154,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2155,Apartamentos,1,72309303,QR 321 Conjunto 3
+2156,Apartamentos,1,72310000,QN 320
+2157,Apartamentos,1,72300530,Quadra 301
+2158,Apartamentos,1,72321000,QR 407
+2159,Apartamentos,1,72321006,QR 407 Conjunto 6
+2160,Apartamentos,1,72300530,Quadra 301
+2161,,,,
+2162,Casas,2,72322200,QR 606
+2163,Apartamentos,1,72309301,QR 321 Conjunto 1
+2164,Apartamentos,2,72320300,QI 416
+2165,Casas,1,72314300,QR 516
+2166,Apartamentos,1,72321000,QR 407
+2167,Apartamentos,1,72310000,QN 320
+2168,Apartamentos,1,72309309,QR 321 Conjunto 9
+2169,Casas,1,72329200,QR 433
+2170,Casas,1,72310400,QR 502
+2171,Casas,4,72323100,QR 417
+2172,Apartamentos,1,72305507,QS 303 Conjunto 7 Comércio
+2173,Apartamentos,1,72321000,QR 407
+2174,Apartamentos,1,72305520,QS 307
+2175,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+2176,Casas,2,72323015,QR 415 Conjunto 15
+2177,Apartamentos,2,72305520,QS 307
+2178,Apartamentos,2,72325580,QS 423
+2179,,,,
+2180,Apartamentos,1,72321002,QR 407 Conjunto 2
+2181,,,,
+2182,Apartamentos,2,72318504,QN 402 Conjunto D Comércio
+2183,Apartamentos,1,72321003,QR 407 Conjunto 3
+2184,Apartamentos,1,72321000,QR 407
+2185,Apartamentos,2,72300653,Quadra 302 Conjunto 12
+2186,Casas,4,72331805,QR 615 Conjunto 5
+2187,Apartamentos,1,72321005,QR 407 Conjunto 5
+2188,Casas,5 ou mais,72317800,Rodovia BR-060
+2189,Apartamentos,1,72312201,QN 508 Conjunto 1
+2190,Apartamentos,1,72321000,QR 407
+2191,Apartamentos,1,72309305,QR 321 Conjunto 5
+2192,Apartamentos,1,72309300,QR 321
+2193,Apartamentos,1,72321008,QR 407 Conjunto 8
+2194,Apartamentos,2,72304020,QR 120 Conjunto 10A
+2195,Apartamentos,1,72310000,QN 320
+2196,Apartamentos,1,72321000,QR 407
+2197,Apartamentos,1,72310000,QN 320
+2198,Apartamentos,1,72321000,QR 407
+2199,Apartamentos,1,72321008,QR 407 Conjunto 8
+2200,Apartamentos,1,72309301,QR 321 Conjunto 1
+2201,Apartamentos,1,72308000,QN 312
+2202,Casas,4,72316100,QR 208
+2203,Casas,1,72327550,QS 427
+2204,Apartamentos,1,72321000,QR 407
+2205,,,,
+2206,Casas,1,72307612,QR 315 Conjunto 12
+2207,Casas,0,72319024,QR 401 Conjunto 24
+2208,Apartamentos,1,72309306,QR 321 Conjunto 6
+2209,Casas,0,72333100,QR 619
+2210,Apartamentos,1,72321000,QR 407
+2211,Apartamentos,1,72321012,QR 407 Conjunto 12
+2212,Apartamentos,1,72321007,QR 407 Conjunto 7
+2213,Apartamentos,1,72321007,QR 407 Conjunto 7
+2214,,,,
+2215,Casas,1,72320027,QR 410 Conjunto 24
+2216,,,,
+2217,Apartamentos,1,72309307,QR 321 Conjunto 7
+2218,,,,
+2219,,,,
+2220,Apartamentos,1,72302203,QR 108 Conjunto 3
+2221,Apartamentos,1,72321000,QR 407
+2222,Apartamentos,1,72309305,QR 321 Conjunto 5
+2223,,,,
+2224,,,,
+2225,Apartamentos,1,72320510,QN 410 Conjunto J Comércio
+2226,Casas,2,72318205,QR 406 Conjunto 5
+2227,Casas,1,72309305,QR 321 Conjunto 5
+2228,,,,
+2229,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2230,Casas,2,72341406,QR 209 Conjunto 6
+2231,Casas,2,72322200,QR 606
+2232,,,,
+2233,,,,
+2234,,,,
+2235,,,,
+2236,,,,
+2237,,,,
+2238,Casas,2,72320100,QR 412
+2239,Casas,1,72345107,QR 221 Conjunto 7
+2240,,,,
+2241,Apartamentos,2,72318520,QS 402
+2242,Apartamentos,1,72331550,QS 609
+2243,Casas,2,72316216,QR 210 Conjunto 15
+2244,Casas,1,72320000,QR 410
+2245,Apartamentos,2,72325000,QR 419
+2246,Apartamentos,2,72325580,QS 423
+2247,Casas,1,72327020,
+2248,Apartamentos,1,72319540,QN 403
+2249,,,,
+2250,Apartamentos,2,72300503,Quadra 101 Conjunto 2
+2251,Apartamentos,1,72309307,QR 321 Conjunto 7
+2252,,,,
+2253,Apartamentos,1,72320300,QI 416
+2254,Apartamentos,1,72321000,QR 407
+2255,Casas,2,72307300,QR 313
+2256,Apartamentos,1,72309302,QR 321 Conjunto 2
+2257,Apartamentos,1,72321001,QR 407 Conjunto 1
+2258,,,,
+2259,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+2260,Casas,2,72322706,QR 614 Conjunto 6
+2261,Apartamentos,1,72308007,QN 312 Conjunto 7
+2262,Apartamentos,1,72321000,QR 407
+2263,Apartamentos,1,72321000,QR 407
+2264,Apartamentos,3,72300630,Quadra 302
+2265,Apartamentos,1,72300603,Quadra 102 Conjunto 2
+2266,Apartamentos,1,72302304,QR 110 Conjunto 4
+2267,Apartamentos,2,72305500,
+2268,Casas,1,72305506,QS 303 Conjunto 6 Comércio
+2269,Casas,2,72329120,QR 431 Conjunto 18
+2270,Casas,1,72345300,QR 225
+2271,Apartamentos,1,72305500,QS 303
+2272,Casas,1,72318200,QR 406
+2273,Apartamentos,2,72302052,QN 104 Conjunto 2
+2274,Casas,2,72341107,QR 203 Conjunto 7
+2275,Apartamentos,1,72316524,QN 210 Conjunto D Comércio
+2276,Apartamentos,2,72321535,QS 409 Conjunto E Comércio
+2277,Casas,2,72329200,QR 433
+2278,Casas,1,72327550,QS 427
+2279,Apartamentos,1,72321006,QR 407 Conjunto 6
+2280,Apartamentos,1,72309302,QR 321 Conjunto 2
+2281,Apartamentos,1,72309307,QR 321 Conjunto 7
+2282,Casas,1,72315116,QR 515 Conjunto 16
+2283,Apartamentos,1,72309303,QR 321 Conjunto 3
+2284,Apartamentos,1,72302502,QS 104 Conjunto 2 Comércio
+2285,Apartamentos,1,72321000,QR 407
+2286,Casas,2,72302052,QN 104 Conjunto 2
+2287,Apartamentos,1,72309303,
+2288,Apartamentos,1,72320018,QR 410 Conjunto 15-A
+2289,Casas,1,72318100,QR 404
+2290,Apartamentos,1,72321008,QR 407 Conjunto 8
+2291,Apartamentos,1,72321000,QR 407
+2292,,,,
+2293,,,,
+2294,Casas,1,72307600,QR 315
+2295,Casas,4,72310407,QR 502 Conjunto 7
+2296,,,,
+2297,,,,
+2298,Apartamentos,1,72321006,QR 407 Conjunto 6
+2299,,,,
+2300,,,,
+2301,Casas,3,72310419,QR 502 Conjunto 19
+2302,,,,
+2303,,,,
+2304,Apartamentos,1,72321000,QR 407
+2305,,,,
+2306,Apartamentos,1,72321000,QR 407
+2307,Apartamentos,1,72310000,
+2308,Apartamentos,1,72310000,QN 320
+2309,Apartamentos,1,72310000,QN 320
+2310,Apartamentos,1,72309300,QR 321
+2311,Casas,2,72318304,QR 408 Conjunto 4
+2312,Apartamentos,1,72321007,QR 407 Conjunto 7
+2313,Apartamentos,1,72321004,QR 407 Conjunto 4
+2314,Casas,3,72301601,QR 113 Conjunto 1
+2315,Casas,1,72307600,QR 315
+2316,Apartamentos,1,72310000,QN 320
+2317,Apartamentos,1,72310000,QN 320
+2318,,,,
+2319,,,,
+2320,Casas,2,72325580,QS 423
+2321,Apartamentos,1,72321009,QR 407 Conjunto 9
+2322,,,,
+2323,Casas,1,72320009,QR 410 Conjunto 8
+2324,Apartamentos,1,72310000,QN 320
+2325,Apartamentos,1,72321006,QR 407 Conjunto 6
+2326,Casas,1,72301606,QR 113 Conjunto 6
+2327,,,,
+2328,Apartamentos,2,72320540,QN 412
+2329,Casas,2,72319200,QR 405
+2330,Apartamentos,1,72310000,QN 320
+2331,Apartamentos,1,72309301,QR 321 Conjunto 1
+2332,Apartamentos,1,72321000,QR 407
+2333,,,,
+2334,Casas,1,72331520,QS 603
+2335,Apartamentos,1,72309305,QR 321 Conjunto 5
+2336,Casas,1,72311611,QR 503 Conjunto 10
+2337,Casas,1,72302052,QN 104 Conjunto 2
+2338,,,,
+2339,Apartamentos,1,72305101,QR 303 Conjunto 1
+2340,,,,
+2341,Apartamentos,1,72310000,QN 320
+2342,,,,
+2343,Apartamentos,1,72302202,QR 108 Conjunto 2
+2344,Apartamentos,2,72320302,QI 416 Conjunto 2
+2345,Apartamentos,1,72321003,
+2346,Apartamentos,1,72321002,QR 407 Conjunto 2
+2347,,,,
+2348,Apartamentos,1,72321000,QR 407
+2349,,,,
+2350,Apartamentos,1,72310000,QN 320
+2351,Apartamentos,1,72304051,QN 120 Conjunto 1
+2352,Casas,2,72318200,QR 406
+2353,Casas,1,72315006,QR 513 Conjunto 6
+2354,,,,
+2355,,,,
+2356,,,,
+2357,Apartamentos,1,72321011,QR 407 Conjunto 11
+2358,Apartamentos,1,72320001,QR 410 Conjunto 1
+2359,Apartamentos,1,72304051,QN 120 Conjunto 1
+2360,Apartamentos,1,72325552,QS 421 Conjunto B Comércio
+2361,Apartamentos,1,72321008,QR 407 Conjunto 8
+2362,Apartamentos,1,72321000,QR 407
+2363,Apartamentos,1,72321000,QR 407
+2364,,,,
+2365,Casas,1,72312604,QR 510 Conjunto 4
+2366,Apartamentos,1,72321007,
+2367,Apartamentos,1,72310000,QN 320
+2368,Apartamentos,1,72321000,QR 407
+2369,Apartamentos,1,72309306,QR 321 Conjunto 6
+2370,Apartamentos,1,72304502,QS 120 Conjunto 2
+2371,Apartamentos,1,72310000,QN 320
+2372,Casas,1,72329204,QR 433 Conjunto 3
+2373,Apartamentos,1,72300533,Quadra 301 Conjunto 2
+2374,Apartamentos,1,72321000,QR 407
+2375,Apartamentos,1,72310000,QN 320
+2376,Apartamentos,1,72310000,QN 320
+2377,Apartamentos,1,72321000,QR 407
+2378,Casas,1,72318100,QR 404
+2379,Apartamentos,1,72321007,QR 407 Conjunto 7
+2380,Apartamentos,1,72321006,QR 407 Conjunto 6
+2381,Apartamentos,1,72321002,QR 407 Conjunto 2
+2382,Apartamentos,1,72321000,QR 407
+2383,Casas,3,72310100,QR 320
+2384,Apartamentos,1,72300531,Quadra 301 Conjunto 1
+2385,Apartamentos,1,72321000,QR 407
+2386,Casas,2,72321200,QR 411
+2387,Apartamentos,1,72321002,QR 407 Conjunto 2
+2388,Apartamentos,1,72321012,QR 407 Conjunto 12
+2389,Apartamentos,1,72321000,QR 407
+2390,Apartamentos,1,72321007,QR 407 Conjunto 7
+2391,Apartamentos,1,72321000,QR 407
+2392,Apartamentos,1,72310010,QN 320 Conjunto 10
+2393,Apartamentos,1,72309303,QR 321 Conjunto 3
+2394,Casas,2,72302052,
+2395,Casas,4,72306606,QR 308 Conjunto 6
+2396,Apartamentos,1,72321005,QR 407 Conjunto 5
+2397,Apartamentos,1,72321000,QR 407
+2398,Apartamentos,1,72310000,QN 320
+2399,Apartamentos,1,72310000,QN 320
+2400,Apartamentos,1,72309300,QR 321
+2401,Apartamentos,1,72309300,QR 321
+2402,Apartamentos,1,72310000,QN 320
+2403,Apartamentos,1,72321010,QR 407 Conjunto 10
+2404,Casas,2,72302052,QN 104 Conjunto 2
+2405,Apartamentos,1,72331509,QS 601 Conjunto I Comércio
+2406,Apartamentos,1,72329554,QS 431 Conjunto D Comércio
+2407,Apartamentos,1,72311704,QN 505 Conjunto 4
+2408,Apartamentos,1,72310000,QN 320
+2409,Apartamentos,2,72308004,QN 312 Conjunto 4
+2410,Apartamentos,1,72321007,QR 407 Conjunto 7
+2411,Apartamentos,1,72321007,QR 407 Conjunto 7
+2412,Casas,1,72320027,QR 410 Conjunto 24
+2413,Apartamentos,1,72304201,QR 122 Conjunto 1
+2414,Apartamentos,1,72321008,QR 407 Conjunto 8
+2415,Casas,2,72314102,QR 514 Conjunto 2
+2416,Apartamentos,1,72321007,QR 407 Conjunto 7
+2417,Apartamentos,1,72321504,QN 407 Conjunto D Comércio
+2418,Casas,2,72301802,QR 121 Conjunto 2
+2419,Apartamentos,2,72316000,QR 206
+2420,Apartamentos,1,72321000,QR 407
+2421,Apartamentos,1,72321007,QR 407 Conjunto 7
+2422,Apartamentos,1,72321000,QR 407
+2423,Apartamentos,1,72321003,QR 407 Conjunto 3
+2424,,,,
+2425,Apartamentos,1,72321502,QN 407 Conjunto B Comércio
+2426,Apartamentos,1,72305530,QS 309
+2427,Apartamentos,1,72310000,QN 320
+2428,,,,
+2429,Apartamentos,1,72310000,QN 320
+2430,Apartamentos,1,72321009,QR 407 Conjunto 9
+2431,Apartamentos,1,72318576,QS 406 Conjunto F Comércio
+2432,Casas,,72302300,QR 110
+2433,Apartamentos,2,72318577,QS 406 Conjunto G Comércio
+2434,,,,
+2435,Casas,1,72305105,QR 303 Conjunto 5
+2436,Apartamentos,1,72310000,QN 320
+2437,Apartamentos,1,72309300,QR 321
+2438,Apartamentos,2,72300505,Quadra 101 Conjunto 3
+2439,Casas,1,72312700,QN 512
+2440,Apartamentos,1,72320000,QR 410
+2441,Casas,5 ou mais,72322100,QR 604
+2442,Apartamentos,1,72310011,QN 320 Conjunto 11
+2443,Apartamentos,1,72321504,QN 407 Conjunto D Comércio
+2444,Casas,3,72316042,Quadra 202 Conjunto 2
+2445,Apartamentos,1,72321004,QR 407 Conjunto 4
+2446,Casas,4,72316000,QR 206
+2447,Apartamentos,1,72320000,QR 410
+2448,Apartamentos,1,72302800,QR 118
+2449,,,,
+2450,Casas,2,72320000,QR 410
+2451,Apartamentos,1,72321000,QR 407
+2452,Apartamentos,1,72300530,Quadra 301
+2453,Apartamentos,1,72321000,QR 407
+2454,,,,
+2455,,,,
+2456,,,,
+2457,,,,
+2458,,,,
+2459,,,,
+2460,,,,
+2461,,,,
+2462,Casas,1,72321006,QR 407 Conjunto 6
+2463,Casas,2,72325800,
+2464,Apartamentos,1,72321007,QR 407 Conjunto 7
+2465,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+2466,Apartamentos,1,72300647,Quadra 302 Conjunto 9
+2467,Casas,2,72318325,QR 408 Conjunto 23
+2468,Apartamentos,1,72321006,QR 407 Conjunto 6
+2469,,,,
+2470,Apartamentos,1,72321000,QR 407
+2471,Apartamentos,1,72309300,QR 321
+2472,,,,
+2473,,,,
+2474,,,,
+2475,,,,
+2476,Casas,1,72301709,QR 115 Conjunto 9
+2477,Apartamentos,1,72321002,QR 407 Conjunto 2
+2478,,,,
+2479,Apartamentos,1,72321006,QR 407 Conjunto 6
+2480,Apartamentos,1,72321012,QR 407 Conjunto 12
+2481,Apartamentos,1,72321000,QR 407
+2482,Apartamentos,1,72309304,QR 321 Conjunto 4
+2483,,,,
+2484,,,,
+2485,,,,
+2486,,,,
+2487,Apartamentos,1,72309300,
+2488,Apartamentos,1,72301550,QS 111 Conjunto E
+2489,Apartamentos,1,72309303,QR 321 Conjunto 3
+2490,Apartamentos,1,72316515,QN 208 Conjunto E Comércio
+2491,Apartamentos,1,72309300,QR 321
+2492,Apartamentos,1,72310000,QN 320
+2493,,,,
+2494,Apartamentos,1,72321008,QR 407 Conjunto 8
+2495,Casas,1,72329007,QR 429 Conjunto 7
+2496,Apartamentos,1,72310000,QN 320
+2497,Apartamentos,1,72321000,QR 407
+2498,Apartamentos,1,72321000,QR 407
+2499,Apartamentos,1,72321009,QR 407 Conjunto 9
+2500,,,,
+2501,Casas,2,72302005,QR 104 Conjunto 5
+2502,Apartamentos,1,72321000,QR 407
+2503,Apartamentos,1,72310002,QN 320 Conjunto 2
+2504,Apartamentos,1,72310000,QN 320
+2505,Casas,4,72320160,
+2506,Apartamentos,1,72309305,QR 321 Conjunto 5
+2507,Apartamentos,1,72309305,QR 321 Conjunto 5
+2508,Apartamentos,1,72302414,QR 112 Conjunto 12
+2509,Apartamentos,1,72309300,QR 321
+2510,Apartamentos,1,72321000,QR 407
+2511,Apartamentos,1,72310000,QN 320
+2512,Apartamentos,1,72321012,QR 407 Conjunto 12
+2513,Casas,4,72302251,QN 108 Conjunto 1
+2514,Apartamentos,1,72300530,Quadra 301
+2515,Apartamentos,1,72310000,QN 320
+2516,Apartamentos,1,72310000,QN 320
+2517,Apartamentos,1,72321000,
+2518,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2519,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2520,Apartamentos,1,72300530,Quadra 301
+2521,Apartamentos,2,72300530,Quadra 301
+2522,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+2523,Apartamentos,2,72300501,Quadra 101 Conjunto 1
+2524,Apartamentos,1,72309307,QR 321 Conjunto 7
+2525,Apartamentos,1,72310000,QN 320
+2526,Casas,2,72311323,QR 501 Conjunto 23
+2527,Casas,2,72327000,QR 425
+2528,,,,
+2529,Apartamentos,1,72321000,QR 407
+2530,Apartamentos,1,72321000,QR 407
+2531,Apartamentos,1,72321000,QR 407
+2532,Casas,1,72316220,QR 210 Conjunto 19
+2533,Apartamentos,1,72309308,QR 321 Conjunto 8
+2534,Apartamentos,1,72321008,QR 407 Conjunto 8
+2535,Apartamentos,1,72309300,QR 321
+2536,Apartamentos,1,72321000,QR 407
+2537,,,,
+2538,Apartamentos,1,72321000,QR 407
+2539,Apartamentos,1,72321000,QR 407
+2540,Apartamentos,1,72321005,QR 407 Conjunto 5
+2541,Apartamentos,1,72321000,QR 407
+2542,Apartamentos,1,72321000,QR 407
+2543,,,,
+2544,,,,
+2545,Apartamentos,1,72313004,QN 507 Conjunto 4
+2546,Apartamentos,1,72316107,QR 208 Conjunto 7
+2547,Apartamentos,1,72309306,QR 321 Conjunto 6
+2548,Casas,,72300630,Quadra 302
+2549,Casas,2,72311800,QR 505
+2550,,,,
+2551,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2552,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2553,,,,
+2554,Apartamentos,1,72306500,QS 304
+2555,Apartamentos,1,72300530,Quadra 301
+2556,Apartamentos,1,72320000,QR 410
+2557,Apartamentos,1,72309304,QR 321 Conjunto 4
+2558,,,,
+2559,Apartamentos,1,72309303,QR 321 Conjunto 3
+2560,,,,
+2561,Casas,,72321002,QR 407 Conjunto 2
+2562,Apartamentos,1,72321000,QR 407
+2563,,,,
+2564,Apartamentos,1,72311405,QN 503 Conjunto 5
+2565,Apartamentos,1,72321000,QR 407
+2566,Apartamentos,1,72300530,Quadra 301
+2567,Apartamentos,1,72321000,QR 407
+2568,Apartamentos,1,72321000,QR 407
+2569,Apartamentos,1,72321000,QR 407
+2570,Apartamentos,1,72321007,QR 407 Conjunto 7
+2571,Apartamentos,1,72322814,QI 616 Conjunto D Comércio
+2572,Apartamentos,1,72321006,QR 407 Conjunto 6
+2573,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2574,Apartamentos,1,72321000,QR 407
+2575,Apartamentos,1,72321000,QR 407
+2576,Apartamentos,1,72321012,QR 407 Conjunto 12
+2577,Casas,2,72310400,QR 502
+2578,Apartamentos,1,72321000,QR 407
+2579,Apartamentos,1,72321000,QR 407
+2580,Apartamentos,1,72321005,QR 407 Conjunto 5
+2581,Apartamentos,1,72318210,QR 406 Conjunto 9-A
+2582,Apartamentos,1,72321001,QR 407 Conjunto 1
+2583,Apartamentos,1,72321007,QR 407 Conjunto 7
+2584,Apartamentos,1,72321000,QR 407
+2585,Apartamentos,1,72321000,
+2586,,,,
+2587,Casas,2,72310412,QR 502 Conjunto 12
+2588,Apartamentos,1,72320301,QI 416 Conjunto 1
+2589,Apartamentos,1,72321003,QR 407 Conjunto 3
+2590,,,,
+2591,Apartamentos,1,72321005,QR 407 Conjunto 5
+2592,Apartamentos,1,72321005,QR 407 Conjunto 5
+2593,,,,
+2594,Casas,4,72321103,QR 409 Conjunto 3
+2595,Casas,5 ou mais,72312108,QR 506 Conjunto 8
+2596,,,,
+2597,Apartamentos,1,72329022,QR 429 Conjunto 22
+2598,Apartamentos,1,72302151,QN 106 Conjunto 1
+2599,Casas,2,72318021,QR 402 Conjunto 21
+2600,Apartamentos,1,72321009,QR 407 Conjunto 9
+2601,Casas,1,72321314,QR 413 Conjunto 12
+2602,Apartamentos,1,72300530,Quadra 301
+2603,Apartamentos,1,72321000,QR 407
+2604,Apartamentos,1,72321000,QR 407
+2605,Apartamentos,1,72321007,QR 407 Conjunto 7
+2606,Casas,2,72325000,QR 419
+2607,Apartamentos,1,72320000,
+2608,Apartamentos,1,72321000,QR 407
+2609,Casas,3,72315100,QR 515
+2610,Casas,2,72338752,QR 833 Conjunto 2
+2611,Apartamentos,1,72321005,QR 407 Conjunto 5
+2612,Apartamentos,1,72321000,QR 407
+2613,Apartamentos,1,72318504,QN 402 Conjunto D Comércio
+2614,Apartamentos,1,72321000,QR 407
+2615,Apartamentos,1,72321000,QR 407
+2616,Apartamentos,2,72301701,QR 115 Conjunto 1
+2617,Apartamentos,1,72321000,QR 407
+2618,Apartamentos,1,72310000,QN 320
+2619,Casas,2,72311320,QR 501 Conjunto 20
+2620,Apartamentos,1,72321000,QR 407
+2621,Apartamentos,1,72300530,Quadra 301
+2622,,,,
+2623,Apartamentos,1,72318500,QN 402
+2624,Apartamentos,1,72310000,QN 320
+2625,Apartamentos,1,72319523,QS 401 Conjunto C Comércio
+2626,Apartamentos,1,72321502,QN 407 Conjunto B Comércio
+2627,Apartamentos,1,72310000,QN 320
+2628,,,,
+2629,Casas,1,72320312,QI 416 Conjunto B
+2630,Casas,2,72311808,QR 505 Conjunto 7
+2631,Casas,1,72320312,QI 416 Conjunto B
+2632,Apartamentos,1,72309302,QR 321 Conjunto 2
+2633,,,,
+2634,Apartamentos,2,72304050,QN 120
+2635,Casas,2,72319200,QR 405
+2636,Apartamentos,1,72321000,QR 407
+2637,,,,
+2638,Apartamentos,1,72321000,QR 407
+2639,Apartamentos,1,72321000,QR 407
+2640,Apartamentos,1,72321000,QR 407
+2641,Apartamentos,1,72321000,QR 407
+2642,,,,
+2643,Apartamentos,1,72321009,QR 407 Conjunto 9
+2644,Apartamentos,1,72304502,QS 120 Conjunto 2
+2645,Apartamentos,1,72321514,
+2646,Casas,1,72310418,
+2647,Apartamentos,1,72321004,QR 407 Conjunto 4
+2648,Apartamentos,1,72321000,QR 407
+2649,Apartamentos,1,72321012,QR 407 Conjunto 12
+2650,Apartamentos,1,72321006,QR 407 Conjunto 6
+2651,Apartamentos,1,72321008,QR 407 Conjunto 8
+2652,Apartamentos,1,72311600,QR 503
+2653,,,,
+2654,Apartamentos,1,72309307,QR 321 Conjunto 7
+2655,Apartamentos,1,72309302,QR 321 Conjunto 2
+2656,,,,
+2657,Casas,3,72305501,QS 303 Conjunto 1 Comércio
+2658,Apartamentos,1,72321005,QR 407 Conjunto 5
+2659,Apartamentos,1,72310000,QN 320
+2660,Apartamentos,2,72304050,QN 120
+2661,,,,
+2662,,,,
+2663,Apartamentos,1,72321000,QR 407
+2664,Apartamentos,1,72309307,QR 321 Conjunto 7
+2665,Apartamentos,1,72321007,QR 407 Conjunto 7
+2666,Casas,2,72339075,QR 1033 Conjunto 5
+2667,,,,
+2668,Apartamentos,1,72321008,QR 407 Conjunto 8
+2669,Casas,2,72307800,QR 317
+2670,Casas,2,72321203,QR 411 Conjunto 3
+2671,Casas,1,72316122,QR 208 Conjunto 21
+2672,Apartamentos,1,72309303,QR 321 Conjunto 3
+2673,,,,
+2674,,,,
+2675,Apartamentos,1,72310000,QN 320
+2676,Apartamentos,1,72321000,QR 407
+2677,,,,
+2678,Apartamentos,1,72302151,QN 106 Conjunto 1
+2679,Apartamentos,1,72321008,
+2680,Casas,3,72310200,
+2681,Apartamentos,1,72321000,QR 407
+2682,Casas,2,72314108,QR 514 Conjunto 8
+2683,Apartamentos,1,72302851,QN 118 Conjunto 1
+2684,Apartamentos,1,72321000,QR 407
+2685,Apartamentos,1,72321003,QR 407 Conjunto 3
+2686,Apartamentos,1,72321000,QR 407
+2687,Apartamentos,1,72321001,QR 407 Conjunto 1
+2688,Casas,1,72311314,QR 501 Conjunto 14
+2689,Apartamentos,1,72321007,QR 407 Conjunto 7
+2690,Apartamentos,1,72305303,QR 305 Conjunto 3
+2691,Apartamentos,1,72321000,QR 407
+2692,Apartamentos,1,72321006,QR 407 Conjunto 6
+2693,Apartamentos,1,72321000,QR 407
+2694,,,,
+2695,Apartamentos,1,72321007,QR 407 Conjunto 7
+2696,Apartamentos,1,72321000,QR 407
+2697,,,,
+2698,Apartamentos,1,72309302,QR 321 Conjunto 2
+2699,Apartamentos,1,72309307,QR 321 Conjunto 7
+2700,Apartamentos,1,72308007,QN 312 Conjunto 7
+2701,Apartamentos,1,72321008,QR 407 Conjunto 8
+2702,Apartamentos,1,72321000,QR 407
+2703,Casas,1,72302207,QR 108 Conjunto 7
+2704,Apartamentos,1,72321006,QR 407 Conjunto 6
+2705,Apartamentos,2,72304050,QN 120
+2706,Apartamentos,1,72321000,QR 407
+2707,Apartamentos,1,72318574,QS 406 Conjunto D Comércio
+2708,Apartamentos,1,72321003,QR 407 Conjunto 3
+2709,Casas,2,72311808,QR 505 Conjunto 7
+2710,Apartamentos,1,72321009,QR 407 Conjunto 9
+2711,Casas,1,72310025,
+2712,Casas,1,72305001,QN 303 Conjunto 1
+2713,Apartamentos,1,72321006,QR 407 Conjunto 6
+2714,Casas,2,72345103,QR 221 Conjunto 3
+2715,Apartamentos,1,72321003,QR 407 Conjunto 3
+2716,Apartamentos,1,72321000,QR 407
+2717,Apartamentos,1,72321000,QR 407
+2718,Apartamentos,1,72321000,
+2719,Apartamentos,1,72321007,QR 407 Conjunto 7
+2720,Apartamentos,1,72302804,QR 118 Conjunto 3-A
+2721,Casas,2,72305531,QS 309 Conjunto 1 Comércio
+2722,Apartamentos,1,72321000,QR 407
+2723,Apartamentos,1,72321000,QR 407
+2724,,,,
+2725,Apartamentos,1,72321008,QR 407 Conjunto 8
+2726,Apartamentos,1,72321009,QR 407 Conjunto 9
+2727,Apartamentos,1,72321000,QR 407
+2728,Casas,2,72312617,QR 510 Conjunto 16
+2729,Casas,1,72309609,QR 323 Conjunto 9
+2730,,,,
+2731,Apartamentos,1,72331100,QR 603
+2732,,,,
+2733,Apartamentos,1,72320000,QR 410
+2734,Apartamentos,1,72321005,QR 407 Conjunto 5
+2735,Apartamentos,1,72309305,QR 321 Conjunto 5
+2736,Apartamentos,1,72321001,QR 407 Conjunto 1
+2737,,,,
+2738,Apartamentos,1,72310000,QN 320
+2739,Apartamentos,1,72321007,QR 407 Conjunto 7
+2740,Apartamentos,1,72321003,QR 407 Conjunto 3
+2741,Apartamentos,1,72318571,QS 406 Conjunto A Comércio
+2742,Apartamentos,1,72321000,QR 407
+2743,Apartamentos,1,72310000,QN 320
+2744,Casas,2,72307301,QR 313 Conjunto 1
+2745,Apartamentos,1,72321002,QR 407 Conjunto 2
+2746,Apartamentos,1,72321000,QR 407
+2747,Apartamentos,1,72321008,QR 407 Conjunto 8
+2748,Apartamentos,1,72321008,QR 407 Conjunto 8
+2749,Casas,2,72320300,QI 416
+2750,Casas,,72314807,
+2751,Apartamentos,1,72321000,QR 407
+2752,Apartamentos,1,72310309,QN 502 Conjunto 9
+2753,Apartamentos,1,72321003,
+2754,,,,
+2755,Apartamentos,1,72321000,QR 407
+2756,Apartamentos,1,72321001,QR 407 Conjunto 1
+2757,Apartamentos,1,72321000,QR 407
+2758,,,,
+2759,Apartamentos,1,72321001,QR 407 Conjunto 1
+2760,Casas,2,72341102,QR 203 Conjunto 2
+2761,Apartamentos,2,72318210,QR 406 Conjunto 9-A
+2762,Apartamentos,1,72321000,QR 407
+2763,Casas,3,72312600,QR 510
+2764,Casas,4,72312307,QR 508 Conjunto 6
+2765,Apartamentos,1,72310000,QN 320
+2766,,,,
+2767,Apartamentos,2,72300530,Quadra 301
+2768,Casas,1,72319019,QR 401 Conjunto 19
+2769,Apartamentos,2,72315558,QS 517 Conjunto H Comércio
+2770,,,,
+2771,Apartamentos,1,72321000,QR 407
+2772,Apartamentos,1,72310000,
+2773,,,,
+2774,Apartamentos,1,72321000,QR 407
+2775,Apartamentos,1,72306301,QR 306 Conjunto 1
+2776,,,,
+2777,,,,
+2778,Apartamentos,1,72310000,QN 320
+2779,Apartamentos,1,72321556,QS 411 Conjunto F
+2780,Apartamentos,1,72306301,QR 306 Conjunto 1
+2781,Apartamentos,1,72320302,QI 416 Conjunto 2
+2782,Apartamentos,1,72321000,QR 407
+2783,Apartamentos,1,72321000,QR 407
+2784,Casas,2,72302317,QR 110 Conjunto 17
+2785,Apartamentos,2,72300531,Quadra 301 Conjunto 1
+2786,Apartamentos,2,72320540,QN 412
+2787,Apartamentos,1,72321000,QR 407
+2788,Apartamentos,1,72321001,QR 407 Conjunto 1
+2789,Casas,1,72310701,QR 504 Conjunto 1
+2790,Apartamentos,1,72321001,
+2791,Apartamentos,1,72321003,QR 407 Conjunto 3
+2792,Casas,3,72331100,QR 603
+2793,Apartamentos,1,72321000,QR 407
+2794,Casas,2,72338752,QR 833 Conjunto 2
+2795,Apartamentos,1,72321000,QR 407
+2796,Casas,1,72303204,QR 127 Conjunto 4
+2797,Apartamentos,1,72321000,QR 407
+2798,Apartamentos,1,72321000,QR 407
+2799,,,,
+2800,Apartamentos,1,72321000,QR 407
+2801,Casas,1,72341351,QN 207 Conjunto 1
+2802,,,,
+2803,Apartamentos,1,72321009,QR 407 Conjunto 9
+2804,Apartamentos,1,72302851,QN 118 Conjunto 1
+2805,Apartamentos,1,72321010,QR 407 Conjunto 10
+2806,Apartamentos,1,72310000,QN 320
+2807,Apartamentos,1,72321012,QR 407 Conjunto 12
+2808,,,,
+2809,,,,
+2810,,,,
+2811,Casas,1,72302052,QN 104 Conjunto 2
+2812,Casas,1,72333004,QR 617 Conjunto 4
+2813,Casas,1,72305607,QR 307 Conjunto 7
+2814,Casas,5 ou mais,72322010,QR 602 Conjunto 10
+2815,Apartamentos,1,72321001,QR 407 Conjunto 1
+2816,Apartamentos,1,72321000,QR 407
+2817,Apartamentos,1,72321012,QR 407 Conjunto 12
+2818,Apartamentos,1,72321001,QR 407 Conjunto 1
+2819,Apartamentos,1,72321000,QR 407
+2820,Apartamentos,1,72306601,QR 308 Conjunto 1
+2821,Apartamentos,1,72305500,QS 303
+2822,Casas,1,72312201,QN 508 Conjunto 1
+2823,,,,
+2824,Apartamentos,1,72321000,QR 407
+2825,Apartamentos,1,72321000,QR 407
+2826,Casas,2,72318002,QR 402 Conjunto 2
+2827,Apartamentos,1,72338663,QR 829 Conjunto 3
+2828,,,,
+2829,Apartamentos,1,72321000,QR 407
+2830,Apartamentos,1,72321001,QR 407 Conjunto 1
+2831,Apartamentos,1,72321000,QR 407
+2832,Apartamentos,1,72321000,QR 407
+2833,Apartamentos,1,72321012,QR 407 Conjunto 12
+2834,Apartamentos,1,72310000,QN 320
+2835,,,,
+2836,,,,
+2837,,,,
+2838,Apartamentos,1,72320151,
+2839,,,,
+2840,Apartamentos,1,72318115,QR 404 Conjunto 13-A
+2841,Apartamentos,1,72306601,QR 308 Conjunto 1
+2842,Casas,1,72305810,QR 309 Conjunto 9
+2843,Apartamentos,1,72321000,QR 407
+2844,Apartamentos,1,72318520,QS 402
+2845,Apartamentos,1,72310000,QN 320
+2846,Apartamentos,1,72321009,QR 407 Conjunto 9
+2847,Apartamentos,1,72321000,QR 407
+2848,Casas,2,72307313,QR 313 Conjunto 13
+2849,Apartamentos,1,72310000,QN 320
+2850,Casas,2,72315118,
+2851,Casas,,72321302,QR 413 Conjunto 2
+2852,Casas,1,72317001,QR 521 Conjunto 1
+2853,Apartamentos,1,72321008,QR 407 Conjunto 8
+2854,Apartamentos,1,72321006,QR 407 Conjunto 6
+2855,Apartamentos,1,72321000,QR 407
+2856,Apartamentos,1,72321005,QR 407 Conjunto 5
+2857,Apartamentos,1,72321006,QR 407 Conjunto 6
+2858,Apartamentos,1,72321105,QR 409 Conjunto 5
+2859,Casas,3,72325580,QS 423
+2860,Apartamentos,1,72319579,QS 405 Conjunto I Comércio
+2861,Casas,,72341204,QR 205 Conjunto 4
+2862,Apartamentos,1,72321000,QR 407
+2863,Apartamentos,1,72321006,QR 407 Conjunto 6
+2864,Apartamentos,1,72321000,QR 407
+2865,Apartamentos,1,72321000,QR 407
+2866,Apartamentos,1,72321007,QR 407 Conjunto 7
+2867,Apartamentos,1,72321000,QR 407
+2868,Casas,1,72339031,QR 1031 Conjunto 1
+2869,Apartamentos,1,72321000,QR 407
+2870,Apartamentos,1,72321008,QR 407 Conjunto 8
+2871,Apartamentos,1,72321001,QR 407 Conjunto 1
+2872,Apartamentos,1,72321000,QR 407
+2873,Apartamentos,1,72321001,QR 407 Conjunto 1
+2874,,,,
+2875,Apartamentos,1,72321000,QR 407
+2876,Apartamentos,1,72331100,QR 603
+2877,Apartamentos,1,72307103,QR 311 Conjunto 3
+2878,,,,
+2879,,,,
+2880,Apartamentos,1,72321008,
+2881,Apartamentos,1,72320017,QR 410 Conjunto 15
+2882,Apartamentos,1,72302304,QR 110 Conjunto 4
+2883,Apartamentos,1,72321000,QR 407
+2884,Apartamentos,1,72321000,QR 407
+2885,Apartamentos,1,72308005,
+2886,,,,
+2887,Apartamentos,1,72321000,QR 407
+2888,Casas,5 ou mais,72317800,Rodovia BR-060
+2889,Casas,2,72302052,QN 104 Conjunto 2
+2890,Apartamentos,1,72321000,QR 407
+2891,Apartamentos,1,72321000,QR 407
+2892,Apartamentos,1,72310000,QN 320
+2893,,,,
+2894,,,,
+2895,,,,
+2896,,,,
+2897,Casas,2,72316210,QR 210 Conjunto 10
+2898,Apartamentos,1,72321000,QR 407
+2899,,,,
+2900,Casas,3,72302608,QR 114 Conjunto 7 Comércio
+2901,,,,
+2902,Apartamentos,1,72321000,QR 407
+2903,Casas,2,72308605,QR 316 Conjunto 5
+2904,Apartamentos,1,72321000,QR 407
+2905,,,,
+2906,,,,
+2907,,,,
+2908,Apartamentos,1,72321005,QR 407 Conjunto 5
+2909,Apartamentos,1,72321000,QR 407
+2910,Apartamentos,1,72321000,QR 407
+2911,Apartamentos,1,72321008,QR 407 Conjunto 8
+2912,Apartamentos,1,72321008,QR 407 Conjunto 8
+2913,Apartamentos,1,72321000,QR 407
+2914,Apartamentos,1,72321001,QR 407 Conjunto 1
+2915,,,,
+2916,Apartamentos,1,72321000,QR 407
+2917,,,,
+2918,Casas,2,72307312,QR 313 Conjunto 12
+2919,Apartamentos,2,72310502,QS 320 Conjunto 2 Comércio
+2920,,,,
+2921,Apartamentos,1,72321000,QR 407
+2922,Apartamentos,1,72321000,QR 407
+2923,Apartamentos,1,72321000,QR 407
+2924,,,,
+2925,Apartamentos,1,72321003,QR 407 Conjunto 3
