@@ -77,19 +77,19 @@ The data was acquired by web scraping olx pages using beautiful soup python libr
 
 * Getting basic information about samambaia houses from olx search page
 
-Just by searching "samambaia" in the search engine and choosing "Venda - casas e apartamentos" category, we could see many results. From that page, I scraped the folling information: title, price, location, number of bedrooms, car parking, house size, link to more info. The python code for this process is in Scrape.py file and the output file is houses.xlsx.
+Just by searching "samambaia" in the search engine and choosing "Venda - casas e apartamentos" category, we could see many results. From these pages, I scraped the folling information: title, price, location, number of bedrooms, car parking, house size, link to more info. The python code for this process is in [Scrape.py](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Scraper.py) file and the output file is [houses.xlsx](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/houses.xlsx), in the data folder.
 
 * Getting more information about samambaia houses using the links from the proccess above.
 
-In order to get more information about samambaia houses, I needed to access each link and scrape more information again. So, I did it! I wanted to get the number of bathrooms, CEP and Logradouro (street). The code for this is in Scrape2.py file and the output file is new_data.csv.
+In order to get more information about samambaia houses, I needed to access each link and scrape more information again. So, I did it! I wanted to get the number of bathrooms, CEP and Logradouro (street). The code for this is in [Scrape2.py](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Scraper2.py) file and the output file is [new_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/new_data.csv), in the data folder.
 
 ### Preprocessing Data
 
-The houses.xlsx have a column named house_description with multiple information about samambaia hosues, so I splited those information to various columns. There were also non-samambaia houses in the search, so I needed to remove those lines. The Processing data.ipynb file has the code of this process and it outputs processed_data.csv
+The [houses.xlsx](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/houses.xlsx) have a column named house_description with multiple information about samambaia hosues, so I splited those information to various columns. There were also non-samambaia houses in the search, so I needed to remove those lines. The [Processing data.ipynb](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Processing%20data.ipynb) file has the code of this process and it outputs the [processed_data.csv file](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/processed_data.csv), in the data folder.
 
 ### Final Data File
 
-The JoinCSV.py file join the data from processed_data.csv and new_data.csv files and it outputs samambaia_houses.csv. So, samambaia_houses.csv is the file I will be working on in the Samambaia house price analysis and prediction and the dashboard.
+The [JoinCSV.py](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/JoinCSV.py) file join the data from [processed_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/processed_data.csv) and [new_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/new_data.csv) files and it outputs [samambaia_houses.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/samambaia_houses.csv). So, [samambaia_houses.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/samambaia_houses.csv) is the file I will be working on in the analysis, prediction and in the dashboard.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
