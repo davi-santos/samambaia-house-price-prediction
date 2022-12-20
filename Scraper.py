@@ -5,6 +5,11 @@ from bs4 import BeautifulSoup
 import json
 import time
 
+'''
+    This code 
+'''
+
+
 FIRST_PAGE = 0
 
 PARAMS_REQUEST_HEADER =  {
@@ -92,4 +97,4 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
 
 json_data = searchData(n_pages=70)
 df_json = pd.DataFrame(data=json_data)
-df_json.to_excel('houses.xlsx')
+df_json.to_excel('./data/houses.xlsx')

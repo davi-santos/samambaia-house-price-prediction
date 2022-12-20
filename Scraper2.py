@@ -17,16 +17,14 @@ PARAMS_REQUEST_HEADER =  {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'
 }
 
+# Get list of olx hyperlinks
 df_data = pd.read_csv('./data/processed_data.csv', index_col=[0])
 list_of_hyperlinks = df_data['house_hyperlink'].values
 
-# print(list_of_hyperlinks[0])
-# ----------------------------#
-# Try to request each page
+# Request each olx hyperlink and get more info
 try_another_request = 1
 i = 0
 size = len(list_of_hyperlinks)
-# size = 3
 houses_json = []
 
 while i < size:
@@ -117,4 +115,4 @@ while i < size:
     i += 1
 
 df_json = pd.DataFrame(data=houses_json)
-df_json.to_csv('new_data.csv')
+df_json.to_csv('./data/new_data.csv')
