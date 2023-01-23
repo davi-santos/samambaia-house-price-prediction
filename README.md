@@ -83,13 +83,23 @@ Just by searching "samambaia" in the search engine and choosing "Venda - casas e
 
 In order to get more information about samambaia houses, I needed to access each link and scrape more information again. So, I did it! I wanted to get the number of bathrooms, CEP and Logradouro (street). The code for this is in [Scrape2.py](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Scraper2.py) file and the output file is [new_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/new_data.csv), in the data folder.
 
-### Preprocessing Data
+## Preprocessing Data
 
 The [houses.xlsx](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/houses.xlsx) have a column named house_description with multiple information about samambaia hosues, so I splited those information to various columns. There were also non-samambaia houses in the search, so I needed to remove those lines. The [Processing data.ipynb](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Processing%20data.ipynb) file has the code of this process and it outputs the [processed_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/processed_data.csv), in the data folder.
 
 ### Final Data File
 
 The [JoinCSV.py](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/JoinCSV.py) file join the data from [processed_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/processed_data.csv) and [new_data.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/new_data.csv) files and it outputs [samambaia_houses.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/samambaia_houses.csv). So, [samambaia_houses.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/samambaia_houses.csv) is the file I will be working on in the analysis, prediction and in the dashboard.
+
+## Exploratory Data Analysis
+
+The Exploratory Data Analysis (EDA) was made on the [Exploratory Data Analysis notebook](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Exploratory%20Data%20Analysis.ipynb). Before seeing too much of the total data, I've splited [the samambaia_houses.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/samambaia_houses.csv) into two files: [train.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/train.csv) and [test.csv](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/data/test.csv), in the data folder.
+
+If you're running this notebook locally in your machine, all the plots should look fine. If you're just reading this repository, you won't be able to see the Plotly plots because github doesn't render it. So, if you're just interested in reading the EDA notebook, you can click on this [link](https://www.kaggle.com/code/daviribeirodossantos/samambaia-house-price-analysis) (the portuguese version of this notebook [here](https://www.kaggle.com/code/daviribeirodossantos/an-lise-dos-pre-os-dos-im-veis-da-samambaia-df) ) to read the analysis and see the plots.
+
+## Machine Learning Models
+
+The machine learning models was made in the [Machine Learning Models.ipynb](https://github.com/davi-santos/samambaia-house-price-prediction/blob/main/Machine%20Learning%20Models.ipynb) notebook.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
