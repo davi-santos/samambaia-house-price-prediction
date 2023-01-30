@@ -97,4 +97,4 @@ def searchData(neighbor = 'samambaia', n_pages = 2):
 
 json_data = searchData(n_pages=2)
 df_json = pd.DataFrame(data=json_data)
-df_json.to_excel('./data/teste.xlsx')
+# df_json.to_excel('./data/teste.xlsx')
