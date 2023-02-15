@@ -18,6 +18,7 @@ voting_model = pickle.load(open('./model/voting_model.sav', 'rb'))
 
 # create app
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY, dbc.icons.BOOTSTRAP])
+server = app.server
 
 # read data
 df = pd.read_csv('./data/data_app.csv', index_col=[0])
