@@ -102,7 +102,7 @@ first_row = dbc.Container(
                     dbc.Row(
                         children=[
                             dbc.Col(
-                                dcc.Graph(id='graph-samambaia'), 
+                                dcc.Loading(dcc.Graph(id='graph-samambaia')), 
                                 className="text-center",
                                 sm=11, md=11, lg=11, xl=10, xxl=10),
                             dbc.Col(
@@ -176,11 +176,11 @@ second_row = dbc.Container(
                     dbc.Row(
                         children=[
                             dbc.Col(
-                                dcc.Graph(id='graph-histogram', className='border bg-white'), 
+                                dcc.Loading(dcc.Graph(id='graph-histogram', className='border bg-white')),
                                 className="", 
                                 sm=11, md=11, lg=11, xl=7, xxl=7),
                             dbc.Col(
-                                dcc.Graph(id='graph-scatter', className='border bg-white mt-1'), 
+                                dcc.Loading(dcc.Graph(id='graph-scatter', className='border bg-white mt-1'), ),
                                 sm=11, md=11, lg=11, xl=5, xxl=5),
                         ],
                         className='mt-2', align='center', justify='around'
@@ -194,10 +194,10 @@ third_row = dbc.Container(
                 dbc.Row(
                     children=[
                         dbc.Col(
-                            dcc.Graph(id='graph-n-garage', className='border bg-white'), 
+                            dcc.Loading(dcc.Graph(id='graph-n-garage', className='border bg-white')),
                             sm=11, md=11, lg=11, xl=6, xxl=6),
                         dbc.Col(
-                            dcc.Graph(id='graph-n-bath', className='border bg-white mt-1'), 
+                            dcc.Loading(dcc.Graph(id='graph-n-bath', className='border bg-white mt-1')), 
                             sm=11, md=11, lg=11, xl=6, xxl=6),
                     ],
                     className='mt-2', align='center', justify='around'
