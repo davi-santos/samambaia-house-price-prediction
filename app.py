@@ -591,5 +591,5 @@ def model_prediction(n_clicks, house_category, house_n_bath, house_n_bedrooms, h
     return 'Resposta', string_show, ''
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
 
