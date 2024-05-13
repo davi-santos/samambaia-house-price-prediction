@@ -14,7 +14,7 @@ import pickle
 df = pd.read_csv('./data/data_app.csv', index_col=[0])
 
 # load the machine learning model
-voting_model = pickle.load(open('./model/voting_model.sav', 'rb'))
+# voting_model = pickle.load(open('./model/voting_model.sav', 'rb'))
 
 # create app
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY, dbc.icons.BOOTSTRAP])
@@ -574,7 +574,8 @@ def model_prediction(n_clicks, house_category, house_n_bath, house_n_bedrooms, h
     X_data = [round(val, 3) for val in X_data]
     
     # Prediction
-    predicted_value = voting_model.predict(np.array(X_data).reshape(1, -1))[0]
+    # predicted_value = voting_model.predict(np.array(X_data).reshape(1, -1))[0]
+    predicted_value = 100.24
     
     predicted_value = round(predicted_value, 3)
     predicted_value = str(predicted_value).replace('.', '')
